@@ -1,6 +1,4 @@
-# Report
-
-
+# Zachary's Report
 
 1. Outline the objectives of the project and define the problem (Steps 1 & 2 of Design Thinking
 Methodology)
