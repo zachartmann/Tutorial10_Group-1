@@ -1,4 +1,8 @@
-# Sean's Report
+# Information System Development Methodologies Project Report
+
+1. Define the problem 
+
+2. Identify Stakeholders 
 
 This is an edit to test
 This is also an edit test :D
