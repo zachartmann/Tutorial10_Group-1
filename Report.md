@@ -6,7 +6,7 @@
 
 ## 2. Identify Stakeholders 
 
-* Travel Company
+###### Travel Company
  * Who are we empathising with?
  * What do they need to do?
  * What do they see?
@@ -15,7 +15,7 @@
  * What do they hear?
  * What do they think and feel?
  
-* Relationship Managers (RMs) 
+###### Relationship Managers (RMs) 
  * Who are we empathising with?
  * What do they need to do?
  * What do they see?
@@ -24,7 +24,7 @@
  * What do they hear?
  * What do they think and feel?
  
-* Customers
+###### Customers
  * Who are we empathising with?
  * What do they need to do?
  * What do they see?
