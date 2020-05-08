@@ -1,6 +1,6 @@
 # Information System Development Methodologies Project Report
 
-## 1. Outline the objectives of the project and define the problem (Steps 1 & 2 of Design Thinking Methodology).
+## 1. Outline the objectives of the project and define the problem 
 
 
 
