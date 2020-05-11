@@ -8,13 +8,29 @@
 ## References 
 ## Appendices
 
-
+## _Draft area (below)_
 This is an edit to test
 This is also an edit test :D
 
 1. Outline the objectives of the project and define the problem (Steps 1 & 2 of Design Thinking
 Methodology).
 2. Identify stakeholders.
+
+    * Major travel company (e.g. executives)
+    * Relationship Managers (RM)
+    * Customers (potential and existing)
+    * Relationship Manager Managers (RMM)
+    * Investors/shareholders?
+    * Other employees?
+    * Government?
+    * Suppliers?
+
+    Other entities:
+    * Call management centre (CMC)
+    * Profiler Tool
+    * Interactive Voice Response unit
+    * Automatic Call Distributor
+
 3. Describe your approach from a Design Thinking principles perspective.
 4. Explain the agile methodology, namely, Scrum you have used to carry out the procedure. In
 your explanation, ensure that you outline activities from Scrum that you use.
