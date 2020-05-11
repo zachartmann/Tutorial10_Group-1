@@ -1,4 +1,13 @@
-# Sean's Report
+# 31257 ISDM - Assignment 1: Project Report
+
+## Title page 
+## Table of Contents 
+## Acknowledgments 
+## Executive Summary 
+## Body of the Report 
+## References 
+## Appendices
+
 
 This is an edit to test
 This is also an edit test :D
