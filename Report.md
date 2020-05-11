@@ -19,6 +19,14 @@ Methodology).
     * Major travel company (e.g. executives)
     * Relationship Managers (RM)
     * Customers (potential and existing)
+        * Empathy Map
+            * Do: make calls to purchase holiday packages, receive sales calls
+            * See: appealing travel destinations, coronavirus on the news
+            * Say: "I want holiday. Now. But I have no money"
+            * Hear: other people's holiday stories
+            * Think/Feel
+                * Pains: difficulting organising holiday, expensive
+                * Gains: targeted packages, calls to a real person
     * Relationship Manager Managers (RMM)
     * Investors/shareholders?
     * Other employees?
