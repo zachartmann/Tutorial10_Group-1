@@ -57,15 +57,24 @@
  
 #### Customers
  * *Who are we empathising with?*
-  * Customers which call the major travel company to book holiday packages 
+    * Customers which call the major travel company to book holiday packages 
  * *What do they need to do?*
+    * Call the travel company to book travel packages
+      * customers dial a number reaching the CMC which has its own private automatic branch exchange to route the calls
  * *What do they see?*
+    * The travel package available from the travel company 
  * *What do they say?*
+    * Their details, preferences and interests for their destination
  * *What do they do?*
+    * Call the travel company 
+    * Fill out profile 
  * *What do they hear?*
+    * Hear the options and thoughts to RMs
+    * The different travel packages
  * *What do they think and feel?*
-
-
+    * To gain the best deal 
+    * Different travel packages
+    * Potential frustrations if the line is busy 
 
 
 ## 3. Describe your approach from a Design Thinking principles perspective.
