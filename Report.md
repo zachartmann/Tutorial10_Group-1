@@ -18,42 +18,42 @@
      * Segment customers into social and cultural segements according to postcodes and surnames - via the "Profiler Tool"
      * CMC system will adjust RMs preformance in selling packages and serving customers effectively and efficiently to rank RMs
  * *What do they see?*
-  * They see the packages they have to sell - and the destination
-  * They see the customers their targeting
-  * The performance of the RMs
-  * Sales figures on certain packages 
+    * They see the packages they have to sell - and the destination
+    * They see the customers their targeting
+    * The performance of the RMs
+    * Sales figures on certain packages 
  * *What do they say?*
-  * Customers with the highest scores are served first
-  * Calls are directed to RMs based on skill levels and best match
+    * Customers with the highest scores are served first
+    * Calls are directed to RMs based on skill levels and best match
  * *What do they do?*
-  * The travel company employs RMs to dial numbers according to a customer target list from a database
-  * Repeat customers may have a higher score, customers from particular postcodes may have lower scores
+    * The travel company employs RMs to dial numbers according to a customer target list from a database
+    * Repeat customers may have a higher score, customers from particular postcodes may have lower scores
  * *What do they hear?*
-  * They hear the feedback of customers 
+    * They hear the feedback of customers 
  * *What do they think and feel?*
-  * Fears on losing customer’s based on RMs performance
-  * Gain the sale of travel packages 
+    * Fears on losing customer’s based on RMs performance
+    * Gain the sale of travel packages 
  
 #### Relationship Managers (RMs) 
  * *Who are we empathising with?*
-  * Relationship managers 
+    * Relationship managers 
  * *What do they need to do?*
-  * Preform sales of holiday packages to entice customers to purchase their product
-  * Have extensive knowledge on products (such as knowledge about destinations and it's traditions) offered by travel company 
-  * Have an established profile - depend on the age, sex, culture, language proficiency, experience and product knowledge (this is initalised at hiring) 
+    * Preform sales of holiday packages to entice customers to purchase their product
+    * Have extensive knowledge on products (such as knowledge about destinations and it's traditions) offered by travel company 
+    * Have an established profile - depend on the age, sex, culture, language proficiency, experience and product knowledge (this is initalised at hiring) 
  * *What do they see?*
-  * See the interests of customers 
-  * See the market sales 
-  * See travel package details 
+    * See the interests of customers 
+    * See the market sales 
+    * See travel package details 
  * *What do they say?*
-  * They make pitches to customers to entice sales 
-  * They fill out and define their profile 
+    * They make pitches to customers to entice sales 
+    * They fill out and define their profile 
  * *What do they do?*
-  * RMs  convince customers to purchase Travel Company's product and increases the chance to achieve a sale or provide a service
+    * RMs  convince customers to purchase Travel Company's product and increases the chance to achieve a sale or provide a service
  * *What do they hear?*
-  * Hear the requests of customers 
+    * Hear the requests of customers 
  * *What do they think and feel?*
-  * Fears of loosing customer sales 
+    * Fears of loosing customer sales 
  
 #### Customers
  * *Who are we empathising with?*
