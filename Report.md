@@ -1,40 +1,107 @@
-# Sanya's  Report
 
-# Report
+# Information System Development Methodologies Project Report
 
-1. Outline the objectives of the project and define the problem (Steps 1 & 2 of Design Thinking
-Methodology).
-2. Identify stakeholders.
-
-Stakeholder—> Relationship managers
-
-- As a relationship manager I wanted to be matched with customers based on my knowledge about the destination and and its traditions 
-
-- I want my profile to be created appropriately based on my skillset and be adjusted based on my performance so that I can be matched appropriately to my level  and serve customers effectively and efficiently 
-
-- For outbound calls  I want system to provide  guidelines and a script so that I can ensure I am providing best service to end-customer
-
-- I want there to be rating system for customers based on their  likelihood to purchase product  with different criteria , so that those customers are served first 
-
-- I want Customer details and preferences  (customer profile) to always be up to date  so that I can correctly match them to a holiday package and ensure they have a positive customer experience 
-
-
-Stakeholder—> Customers
-
-- I want to be matched to a relationship manager that has extensive knowledge about the travel destinations and packages I want to explore and potentially purchase so that I receive the best help possible
-
-- I want the to be matched with an employee who meets requirements in terms of language proficiency and demographic so that we can have a smoother call experience 
-
-- I want my calls to be served in reasonable amount of times and less waiting period
-
-- As a returning customer I want to receive discount and benefits , and potentially be matched to relationship manager I had previous good experience with
-
-- Get the best deal and desired bundle for my holiday destination
-
-- Have a helpful  and professional calling experience with staff 
+## 1. Outline the objectives of the project and define the problem 
 
 
 
-3. Describe your approach from a Design Thinking principles perspective.
-4. Explain the agile methodology, namely, Scrum you have used to carry out the procedure. In
-your explanation, ensure that you outline activities from Scrum that you use.
+## 2. Identify Stakeholders 
+
+#### Travel Company
+ * *Who are we empathising with?*
+   * A travel company who provides holiday packages  
+ * *What do they need to do?*
+   * Would like to develop an information system to improve in-house call management centre  (CMC).
+   * This CMC system will:
+     * Provide improved call routing and dynamic call flow control for both inbound and outbound calls
+     * Adjust the call flow rate so that suitable relationship managers (RMs) are matched according to RMs skills and customer profiles 
+     * Match customers with informed RMs via profiles 
+     * Segment customers into social and cultural segements according to postcodes and surnames - via the "Profiler Tool"
+     * CMC system will adjust RMs preformance in selling packages and serving customers effectively and efficiently to rank RMs
+ * *What do they see?*
+    * They see the packages they have to sell - and the destination
+    * They see the customers their targeting
+    * The performance of the RMs
+    * Sales figures on certain packages 
+ * *What do they say?*
+    * Customers with the highest scores are served first
+    * Calls are directed to RMs based on skill levels and best match
+ * *What do they do?*
+    * The travel company employs RMs to dial numbers according to a customer target list from a database
+    * Repeat customers may have a higher score, customers from particular postcodes may have lower scores
+ * *What do they hear?*
+    * They hear the feedback of customers 
+ * *What do they think and feel?*
+    * Fears on losing customer’s based on RMs performance
+    * Gain the sale of travel packages 
+ 
+#### Relationship Managers (RMs) 
+ * *Who are we empathising with?*
+    * Relationship managers 
+ * *What do they need to do?*
+    * Preform sales of holiday packages to entice customers to purchase their product
+    * Have extensive knowledge on products (such as knowledge about destinations and it's traditions) offered by travel company 
+    * Have an established profile - depend on the age, sex, culture, language proficiency, experience and product knowledge (this is initalised at hiring) 
+ * *What do they see?*
+    * See the interests of customers 
+    * See the market sales 
+    * See travel package details 
+ * *What do they say?*
+    * They make pitches to customers to entice sales 
+    * They fill out and define their profile 
+ * *What do they do?*
+    * RMs  convince customers to purchase Travel Company's product and increases the chance to achieve a sale or provide a service
+ * *What do they hear?*
+    * Hear the requests of customers 
+ * *What do they think and feel?*
+    * Fears of loosing customer sales 
+ 
+#### Customers
+ * *Who are we empathising with?*
+    * Customers which call the major travel company to book holiday packages 
+ * *What do they need to do?*
+    * Call the travel company to book travel packages
+      * customers dial a number reaching the CMC which has its own private automatic branch exchange to route the calls
+ * *What do they see?*
+    * The travel package available from the travel company 
+ * *What do they say?*
+    * Their details, preferences and interests for their destination
+ * *What do they do?*
+    * Call the travel company 
+    * Fill out profile 
+ * *What do they hear?*
+    * Hear the options and thoughts to RMs
+    * The different travel packages
+ * *What do they think and feel?*
+    * To gain the best deal 
+    * Different travel packages
+    * Potential frustrations if the line is busy 
+
+
+## 3. Describe your approach from a Design Thinking principles perspective.
+
+
+
+## 4. Explain the agile methodology, namely, Scrum you have used to carry out the procedure. In your explanation, ensure that you outline activities from Scrum that you use.
+
+
+
+
+## 5. List assumptions you have made in the systems analysis.
+
+
+
+## 6. Document your proposed workproducts and models.
+
+
+
+
+## 7. Discuss the competitive advantages might be gained in developing the new information system. Identify and discuss the possible adverse effects for this Business if its information system project fails
+
+
+
+
+
+## 8. Document in GitHub all your iteration and models as you progress.
+
+
