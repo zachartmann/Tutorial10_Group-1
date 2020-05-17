@@ -102,5 +102,3 @@
 
 
 ## 8. Document in GitHub all your iteration and models as you progress.
-
-
