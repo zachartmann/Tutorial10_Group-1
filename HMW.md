@@ -1,0 +1,14 @@
+# HMW
+- Travel Company
+	- HMW monitor KPIs.
+	- HMW manage incoming calls so that they do not add additional costs to the travel company.
+- Relationship Managers
+	- HMW profile RMs, so they are matched effectively to customers served.
+	- HMW match more knowledgeable RMs to specific customers.
+	- HMW better allocate customers based on RM expertise
+- End-Customer
+	- HMW better reach customers who have been on hold for an extended period of time.
+	- HMW better match customers to RMs so they have a high quality of customer service.
+	- HMW better match RMs with customers so they can find perfect packages.
+	- HMW reduce wait times for customers, so they are matched with an RM sooner.
+	- HMW better communicate with customers to lock down deals within a minimal call time.
