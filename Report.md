@@ -76,6 +76,14 @@
     * Different travel packages
     * Potential frustrations if the line is busy 
 
+### Travel Company Empathy Map
+![Image of Travel Company Empathy Map](https://github.com/Aiswarya668/Tutorial10_Group-1/blob/develop/TravelCompanyEM.png)
+
+### Relationship Managers Empathy Map
+![Image of Travel Company Empathy Map](https://github.com/Aiswarya668/Tutorial10_Group-1/blob/develop/RMsEM.png)
+
+### Customers Empathy Map
+![Image of Travel Company Empathy Map](https://github.com/Aiswarya668/Tutorial10_Group-1/blob/develop/CustomerEM.png)
 
 ## 3. Describe your approach from a Design Thinking principles perspective.
 
@@ -102,5 +110,3 @@
 
 
 ## 8. Document in GitHub all your iteration and models as you progress.
-
-
