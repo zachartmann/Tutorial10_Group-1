@@ -76,6 +76,14 @@
     * Different travel packages
     * Potential frustrations if the line is busy 
 
+### Travel Company Empathy Map
+![Image of Travel Company Empathy Map](./diagrams/TravelCompanyEM.png)
+
+### Relationship Managers Empathy Map
+![Image of Relationship Managers Empathy Map](./diagrams/RMsEM.png)
+
+### Customers Empathy Map
+![Image of Customers Empathy Map](./diagrams/CustomerEM.png)
 
 ## 3. Describe your approach from a Design Thinking principles perspective.
 
