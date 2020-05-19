@@ -77,13 +77,13 @@
     * Potential frustrations if the line is busy 
 
 ### Travel Company Empathy Map
-![Image of Travel Company Empathy Map](https://github.com/Aiswarya668/Tutorial10_Group-1/blob/develop/TravelCompanyEM.png)
+![Image of Travel Company Empathy Map](./diagrams/TravelCompanyEM.png)
 
 ### Relationship Managers Empathy Map
-![Image of Travel Company Empathy Map](https://github.com/Aiswarya668/Tutorial10_Group-1/blob/develop/RMsEM.png)
+![Image of Relationship Managers Empathy Map](./diagrams/RMsEM.png)
 
 ### Customers Empathy Map
-![Image of Travel Company Empathy Map](https://github.com/Aiswarya668/Tutorial10_Group-1/blob/develop/CustomerEM.png)
+![Image of Customers Empathy Map](./diagrams/CustomerEM.png)
 
 ## 3. Describe your approach from a Design Thinking principles perspective.
 
