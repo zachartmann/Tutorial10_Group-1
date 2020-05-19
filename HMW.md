@@ -1,7 +1,7 @@
 # HMW
 - Travel Company
 	- HMW monitor KPIs.
-	- HMW manage incoming calls so that they do not add additional costs to the travel company.
+	- HMW manage incoming calls so that they do not add additional costs to the travel company by occupying human resources (Relationship Managers).
 - Relationship Managers
 	- HMW profile RMs, so they are matched effectively to customers served.
 	- HMW match more knowledgeable RMs to specific customers.
