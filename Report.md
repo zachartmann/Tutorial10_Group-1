@@ -100,6 +100,10 @@
 
 ## 6. Document your proposed workproducts and models.
 
+### Activity Diagrams
+
+#### Outbound Call
+![Image of Travel Company Activity Diagram (Outbound Call)](./diagrams/ActivityDiagram-OutboundCall.png)
 
 
 
