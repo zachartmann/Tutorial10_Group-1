@@ -116,7 +116,7 @@
 
 
 ### Activity Diagram (Inbound calls)
-![Image of Travel Company Empathy Map](./diagrams/Activity Diagram - customer.png)
+![Image of Travel Company Empathy Map](./diagrams/ADinboundcustomer.png)
 
 ## 7. Discuss the competitive advantages might be gained in developing the new information system. Identify and discuss the possible adverse effects for this Business if its information system project fails
 
