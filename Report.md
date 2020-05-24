@@ -2,6 +2,20 @@
 
 ## 1. Outline the objectives of the project and define the problem 
 
+*Objectives*
+* Develop an information to improve operation of the Call Management Centre
+* Adjust call flow-rate to Relationship Managers
+* Improving profitability and customer satisfaction
+* Match RMs and end-customers according to RMs skills and customer profiles
+
+
+*Problem definition*
+* The current Call Management Centre provides suboptimal:
+  * Waiting times
+  * RM to customer matching (mismatch)
+  * Prioritisation of customers
+  * Inbound call costs
+* The Call Management Centre currently provides a suboptimal user experience, due to wait times and poor customer-RM matching, leading to user disatisfaction
 
 
 ## 2. Identify Stakeholders 
