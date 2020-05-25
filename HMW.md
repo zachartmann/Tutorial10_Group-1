@@ -10,5 +10,5 @@
 	- HMW better reach customers who have been on hold for an extended period of time.
 	- HMW better match customers to RMs so they have a high quality of customer service.
 	- HMW better match RMs with customers so they can find perfect packages.
-	- HMW reduce wait times for customers, so they are matched with an RM sooner.
+	- HMW prevent customers from hanging up.
 	- HMW better communicate with customers to lock down deals within a minimal call time.

@@ -2,6 +2,20 @@
 
 ## 1. Outline the objectives of the project and define the problem 
 
+*Objectives*
+* Develop an information to improve operation of the Call Management Centre
+* Adjust call flow-rate to Relationship Managers
+* Improving profitability and customer satisfaction
+* Match RMs and end-customers according to RMs skills and customer profiles
+
+
+*Problem definition*
+* The current Call Management Centre provides suboptimal:
+  * Waiting times
+  * RM to customer matching (mismatch)
+  * Prioritisation of customers
+  * Inbound call costs
+* The Call Management Centre currently provides a suboptimal user experience, due to wait times and poor customer-RM matching, leading to user disatisfaction
 
 
 ## 2. Identify Stakeholders 
@@ -77,13 +91,13 @@
     * Potential frustrations if the line is busy 
 
 ### Travel Company Empathy Map
-![Image of Travel Company Empathy Map](https://github.com/Aiswarya668/Tutorial10_Group-1/blob/develop/TravelCompanyEM.png)
+![Image of Travel Company Empathy Map](./diagrams/TravelCompanyEM.png)
 
 ### Relationship Managers Empathy Map
-![Image of Travel Company Empathy Map](https://github.com/Aiswarya668/Tutorial10_Group-1/blob/develop/RMsEM.png)
+![Image of Relationship Managers Empathy Map](./diagrams/RMsEM.png)
 
 ### Customers Empathy Map
-![Image of Travel Company Empathy Map](https://github.com/Aiswarya668/Tutorial10_Group-1/blob/develop/CustomerEM.png)
+![Image of Customers Empathy Map](./diagrams/CustomerEM.png)
 
 ## 3. Describe your approach from a Design Thinking principles perspective.
 
@@ -100,8 +114,13 @@
 
 ## 6. Document your proposed workproducts and models.
 
+### Activity Diagrams
 
+#### Outbound Call
+![Image of Travel Company Activity Diagram (Outbound Call)](./diagrams/ActivityDiagram-OutboundCall.png)
 
+### Activity Diagram (Inbound calls)
+![Image of Travel Company Empathy Map](./diagrams/ADinboundcustomer.png)
 
 ## 7. Discuss the competitive advantages might be gained in developing the new information system. Identify and discuss the possible adverse effects for this Business if its information system project fails
 
