@@ -117,7 +117,7 @@
 ### Activity Diagrams
 
 #### Outbound Call
-![Image of Travel Company Activity Diagram (Outbound Call)](./diagrams/ActivityDiagram-OutboundCall.png)
+![Image of Travel Company Activity Diagram (Outbound Call)](./diagrams/ActivityDiagram-OutboundCall_v02.png)
 
 
 
