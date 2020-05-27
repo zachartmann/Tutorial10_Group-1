@@ -1,13 +1,10 @@
 # Information System Development Methodologies Project Report
 
-## 1. Outline the objectives of the project and define the problem 
+# Executive Summary
 
-*Objectives*
-* Develop an information to improve operation of the Call Management Centre
-* Adjust call flow-rate to Relationship Managers
-* Improving profitability and customer satisfaction
-* Match RMs and end-customers according to RMs skills and customer profiles
+*// SOMEONE MAKE THIS BETTER*
 
+This report presents the definition, analysis, and design of an improved information system solution for the call management centre (CMC) of a major travel company. The Design Thinking principles and agile methodology (Scrum) used are discussed, and iterative progress is documented on GitHub.
 
 *Problem definition*
 * The current Call Management Centre provides suboptimal:
