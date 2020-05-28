@@ -117,7 +117,7 @@ A sprint is a fixed period of time after which a deliveralble iteration of a pro
 #### Sprint Planning
 Our team conducted sprint planning sessions on the first day of each sprint (Sunday). In these meetings we established the goals for the current sprint, and reviewed the stories/issues in the backlog. The tasks for each sprint were allocated to members of the development team and moved from the “Backlog” column (on project board) to the “Ready for Dev” column.
 #### Sprint Review
-Sprint reviews were held every Friday for members of the development team to explain and deliver their work for the given sprint. The product owner and other team members evaluate the what was completed and determine the progress has been made and tasks left to complete.
+Sprint reviews were held every Friday for members of the development team to explain and deliver their work for the given sprint. The product owner and other team members evaluated what was completed and determined the progress made and tasks left to complete.
 #### Sprint Retrospective
 Our sprint retrospectives were held after each sprint review to re-evaluate our workflow, communication, and any other issues that arose during the sprint.
 #### Daily Scrum
@@ -127,10 +127,10 @@ Due to the clashing schedules of our team members, we decided to communicate/con
 
 Artefact | Description
 ---|---
-Product Backlog | Order list of all tasks/features/stories/requirements for a product (managed by product owner)
+Product Backlog | An ordered list of all tasks/features/stories/requirements for a product (managed by product owner)
 Sprint Backlog | A subset of the Product Backlog for development in a sprint (managed by development team)
-Product Increment | A potentially shippable version of the product that is not dramatically different from the previous version
-Sprint Burndown Chart | A graphical representation of the development team's progress (backlog items done) over time
+Product Increment | A potentially shippable version of the product that builds on the previous increment/version
+Sprint Burndown Chart | A graphical representation of the development team's progress over time (backlog items completed)
 
 explain "done" and "timebox"?
 
