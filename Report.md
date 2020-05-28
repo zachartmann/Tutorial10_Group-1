@@ -142,6 +142,8 @@ Workproducts and Models
 =======================
 6. Document your proposed workproducts and models *and descriptions*.
 
+The Collaboration Diagram for Customer emphasises the structure of interactions between the Customer, Relationship manager, Call Management Centre(CMC) and Interactive voice Response unit. The diagram defines the role of each object or actor.  This diagram  follows Customer’s journey from calling the Call Management Centre through to the payment confirmation text for the order.
+
 ## **Use Case Diagrams**
 
 ### Use Case Diagram - Outbound Calls
