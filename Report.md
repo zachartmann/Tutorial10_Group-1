@@ -112,7 +112,7 @@ The development team is responsible for building the deliverable increment of a 
 
 ### Events/Activities
 
-A sprint is a fixed period of time after which a deliveralble iteration of a product must be developed. The following activities were conducted in each of our team's 1-week sprints (Sunday to Friday).
+A sprint is a fixed period of time after which a deliverable iteration of a product must be developed. The following activities were conducted in each of our team's 1-week sprints (Sunday to Friday).
 
 #### Sprint Planning
 Our team conducted sprint planning sessions on the first day of each sprint (Sunday). In these meetings we established the goals for the current sprint, and reviewed the stories/issues in the backlog. The tasks for each sprint were allocated to members of the development team and moved from the “Backlog” column (on project board) to the “Ready for Dev” column.
