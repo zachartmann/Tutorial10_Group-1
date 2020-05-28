@@ -96,8 +96,32 @@ Design Thinking Approach
 
 
 ## **Agile Methodology - Scrum**
-4. Explain the agile methodology, namely, Scrum you have used to carry out the procedure. In your explanation, ensure that you outline activities from Scrum that you use.
+> 4. Explain the agile methodology, namely, Scrum you have used to carry out the procedure. In your explanation, ensure that you outline activities from Scrum that you use.
 
+Scrum is the most widely used agile methodology for software design and development. The framework assumes that requirements and the development process are constantly and unpredictably changing which is often the case in real-world scenarios. While traditional models/approaches (e.g. Waterfall, Spiral) attempt to define all requirements upfront, requirements in agile/scrum are developed, reviewed, and iteratively updated to allow for greater adaptability to changes in client needs/feedback, technological advancements, and other environmental factors (e.g. global pandemics).
+
+### Roles
+
+#### Product Owner - Zac
+#### Scrum Master - Aiswarya
+#### Development Team - Anastasia, Sanya, Sean
+
+### Events/Activities
+
+A sprint is a fixed period of time after which a deliveralble iteration of a product must be developed. The following activities were conducted in each of our team's 1-week sprints.
+
+#### Sprint Planning
+#### Sprint Review
+#### Sprint Retrospective
+#### Daily Scrum
+
+### Artefacts
+
+#### Product Backlog
+#### Sprint Backlog
+explain "done" and "timebox"
+#### Product Increment
+#### Sprint Burndown Chart
 
 
 Workproducts and Models
