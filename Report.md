@@ -125,11 +125,14 @@ Due to the clashing schedules of our team members, we decided to communicate/con
 
 ### Artefacts
 
-#### Product Backlog
-#### Sprint Backlog
-explain "done" and "timebox"
-#### Product Increment
-#### Sprint Burndown Chart
+Artefact | Description
+---|---
+Product Backlog | Order list of all tasks/features/stories/requirements for a product (managed by product owner)
+Sprint Backlog | A subset of the Product Backlog for development in a sprint (managed by development team)
+Product Increment | A potentially shippable version of the product that is not dramatically different from the previous version
+Sprint Burndown Chart | A graphical representation of the development team's progress (backlog items done) over time
+
+explain "done" and "timebox"?
 
 
 Workproducts and Models
