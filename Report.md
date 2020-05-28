@@ -96,8 +96,43 @@ Design Thinking Approach
 
 
 ## **Agile Methodology - Scrum**
-4. Explain the agile methodology, namely, Scrum you have used to carry out the procedure. In your explanation, ensure that you outline activities from Scrum that you use.
+> 4. Explain the agile methodology, namely, Scrum you have used to carry out the procedure. In your explanation, ensure that you outline activities from Scrum that you use.
 
+Scrum is the most widely used agile methodology for software design and development. The framework assumes that requirements and the development process are constantly and unpredictably changing which is often the case in real-world scenarios. While traditional models/approaches (e.g. Waterfall, Spiral) attempt to define all requirements upfront, requirements in agile/scrum are developed, reviewed, and iteratively updated to allow for greater adaptability to changes in client needs/feedback, technological advancements, and other environmental factors (e.g. global pandemics).
+
+### Roles
+Scrum teams are self-organising and cross-functional meaning they are independent and trusted to be internally directed. Authority is given to the team to complete work in a manner that the team sees best fit. A number of roles exist in most scrum teams. Due to the nature of this project, the product owner and scrum master also act as members of the development team.
+
+#### Product Owner – Zac
+The product owner is an individual responsible for establishing and communicating the product vision including defining and prioritising features to be developed. The product owner must make quick and informed decisions while monitoring project progress and release dates.
+#### Scrum Master – Aiswarya
+The scrum master facilitates scrum team events and promotes scrum theory, rules, and practices.
+#### Development Team - Anastasia, Sanya, Sean
+The development team is responsible for building the deliverable increment of a product in each sprint.
+
+### Events/Activities
+
+A sprint is a fixed period of time after which a deliveralble iteration of a product must be developed. The following activities were conducted in each of our team's 1-week sprints (Sunday to Friday).
+
+#### Sprint Planning
+Our team conducted sprint planning sessions on the first day of each sprint (Sunday). In these meetings we established the goals for the current sprint, and reviewed the stories/issues in the backlog. The tasks for each sprint were allocated to members of the development team and moved from the “Backlog” column (on project board) to the “Ready for Dev” column.
+#### Sprint Review
+Sprint reviews were held every Friday for members of the development team to explain and deliver their work for the given sprint. The product owner and other team members evaluated what was completed and determined the progress made and tasks left to complete.
+#### Sprint Retrospective
+Our sprint retrospectives were held after each sprint review to re-evaluate our workflow, communication, and any other issues that arose during the sprint.
+#### Daily Scrum
+Due to the clashing schedules of our team members, we decided to communicate/conduct daily scrum meetings over text. Each day, progress updates and issues were discussed and any blockers were collectively reviewed and resolved.
+
+### Artefacts
+
+Artefact | Description
+---|---
+Product Backlog | An ordered list of all tasks/features/stories/requirements for a product (managed by product owner)
+Sprint Backlog | A subset of the Product Backlog for development in a sprint (managed by development team)
+Product Increment | A potentially shippable version of the product that builds on the previous increment/version
+Sprint Burndown Chart | A graphical representation of the development team's progress over time (backlog items completed)
+
+explain "done" and "timebox"?
 
 
 Workproducts and Models
