@@ -111,7 +111,6 @@ The scrum master facilitates scrum team events and promotes scrum theory, rules,
 The development team is responsible for building the deliverable increment of a product in each sprint.
 
 ### Events/Activities
-
 A sprint is a fixed period of time after which a deliverable iteration of a product must be developed. The following activities were conducted in each of our team's 1-week sprints (Sunday to Friday).
 
 #### Sprint Planning
