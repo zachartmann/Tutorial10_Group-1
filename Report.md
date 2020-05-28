@@ -135,7 +135,6 @@ Workproducts and Models
 6. Document your proposed workproducts and models *and descriptions*.
 
 ## **Use Case Diagrams**
-
 ### Use Case Diagram - Outbound Calls
 ![Image of Use Case Diagram (Outbound Call)](./diagrams/UseCaseDiagram-OutboundCall.png)
 
@@ -143,19 +142,21 @@ Workproducts and Models
 ![Image of Use Case Diagram (Inbound Call)](./diagrams/UseCaseDiagram-InboundCall.png)
 
 ## **Activity Diagrams**
-
 ### Activity Diagram - Outbound Calls
 ![Image of Travel Company Activity Diagram (Outbound Call)](./diagrams/ActivityDiagram-OutboundCall.png)
 
 ### Activity Diagram - Inbound Calls
-![Image of Travel Company Empathy Map](./diagrams/ActivityDiagram-InboundCall.png)
+![Image of Travel Company Activity Diagram (Inbound Call)](./diagrams/ActivityDiagram-InboundCall.png)
 
 ## **Class Diagram**
 ![Image of Class Diagram](./diagrams/ClassDiagram.png)
 
-## **Collaborative Diagrams**
-*TODO: put in*
+## **Collaboration Diagrams**
+### Collaboration Diagram - Outbound Calls
+![Image of Collaboration Diagram (Outbound Call)](./diagrams/CollaborationDiagram-RM.png)
 
+### Collaboration Diagram - Inbound Calls
+![Image of Collaborative Diagram (Inbound Call)](./diagrams/CollaborationDiagram-Customer.png)
 
 Potential Advantages and Disadvantages
 ======================================
