@@ -31,13 +31,13 @@ Problem Definition
 ## **Assumptions**
  5. List assumptions you have made in the systems analysis.
 
-*The Profiler Tool generates an ordered list of appropriate RMs to direct calls to
-*The RM questionnaire elicits details about the RMs age, sex, culture, language proficiency, experience and product knowledge
-*The CMC has enough processing power to handle complex computations and algorithms
-*Assume a supporting tool to create customer profiles exists, Profiler Tool.
-*Customer database already exists with information such as postcode, surnames
-*Employees have the appropriate product knowledge and understand the operation of the call management centre
-*Guidelines and a script exist for RM with outbound calls to assist them
+* The Profiler Tool generates an ordered list of appropriate RMs to direct calls to
+* The RM questionnaire elicits details about the RMs age, sex, culture, language proficiency, experience and product knowledge
+* The CMC has enough processing power to handle complex computations and algorithms
+* Assume a supporting tool to create customer profiles exists, Profiler Tool.
+* Customer database already exists with information such as postcode, surnames
+ Employees have the appropriate product knowledge and understand the operation of the call management centre
+* Guidelines and a script exist for RM with outbound calls to assist them
 
 ## **List of Stakeholders**
 
