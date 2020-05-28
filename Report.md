@@ -1,17 +1,20 @@
 # **31257 Information System Development Methodologies - Project Report**
 
-# Table of Contents *(might not need but it's in the 'Writing Reports.doc')*
+Table of Contents *(might not need but it's in the 'Writing Reports.doc')*
+=================
 
-# Acknowledgements *(might not need but it's in the 'Writing Reports.doc')*
+Acknowledgements *(might not need but it's in the 'Writing Reports.doc')*
+================
 
-# Executive Summary
 
+Executive Summary
+=================
 *// SOMEONE MAKE THIS BETTER*
-
 This report presents the definition, analysis, and design of an improved information system solution for the call management centre (CMC) of a major travel company. The Design Thinking principles and agile methodology (Scrum) used are discussed, and iterative progress is documented on GitHub.
 
-# Problem Definition
 
+Problem Definition
+==================
 * The current Call Management Centre provides suboptimal:
   * Waiting times
   * RM to customer matching (mismatch)
@@ -42,16 +45,17 @@ Stakeholders refer to individuals/entities that have an interest in the developm
 ## **Empathy Maps**
 
 ## Empathy Map - Customers
-![Image of Customers Empathy Map](./diagrams/CustomerEM.png)
+![Image of Customers Empathy Map](./diagrams/EmpathyMap-Customer.png)
 
 ## Empathy Map - Relationship Managers
-![Image of Relationship Managers Empathy Map](./diagrams/RMsEM.png)
+![Image of Relationship Managers Empathy Map](./diagrams/EmpathyMap-RM.png)
 
 ## Empathy Map - Travel Company
-![Image of Travel Company Empathy Map](./diagrams/TravelCompanyEM.png)
+![Image of Travel Company Empathy Map](./diagrams/EmpathyMap-TravelCompany.png)
 
 
-# Design Thinking Approach
+Design Thinking Approach
+========================
 *3. Describe your approach from a Design Thinking principles perspective. Your Design Thinking approach to address the problem with artefacts*
 
 ## **Ideation**
@@ -64,9 +68,12 @@ Stakeholders refer to individuals/entities that have an interest in the developm
 4. Explain the agile methodology, namely, Scrum you have used to carry out the procedure. In your explanation, ensure that you outline activities from Scrum that you use.
 
 
-
-# Workproducts and Models
+Workproducts and Models
+=======================
 6. Document your proposed workproducts and models *and descriptions*.
+
+## **Use Case Diagrams**
+*TODO: put in*
 
 ## **Activity Diagrams**
 
@@ -74,12 +81,17 @@ Stakeholders refer to individuals/entities that have an interest in the developm
 ![Image of Travel Company Activity Diagram (Outbound Call)](./diagrams/ActivityDiagram-OutboundCall.png)
 
 ## Activity Diagram - Inbound Calls
-![Image of Travel Company Empathy Map](./diagrams/ADinboundC.png)
+![Image of Travel Company Empathy Map](./diagrams/ActivityDiagram-InboundCall.png)
+
+## **Class Diagram**
+![Image of Class Diagram](./diagrams/ClassDiagram.png)
+
+## **Collaborative Diagrams**
 
 
-# Potential Advantages and Disadvantages
-
-7. Discuss the competitive advantages might be gained in developing the new information system. Identify and discuss the possible adverse effects for this Business if its information system project fails
+Potential Advantages and Disadvantages
+======================================
+7. (around 500 words) Discuss the competitive advantages might be gained in developing the new information system. E.g. Potential benefits to the call center (in terms of reducing cost and being able to carry out more effective calls). Identify and discuss the possible adverse effects for this Business if its information system project fails. 
 
 ## **Competitive Advantage**
 *TODO*
@@ -87,11 +99,16 @@ Stakeholders refer to individuals/entities that have an interest in the developm
 ## **Possible Effects of Project Failure**
 *TODO*
 
-# Conclusion *or* Explanation of each iteration intention, rationale, focus?
 
+Conclusion *or* Explanation of each iteration intention, rationale, focus?
+==========
 8. Document in GitHub all your iteration and models as you progress.
 
    Recording the intention, rationale, and focus of each system’s development iteration using Github’s commit messages, project boards, and issue tracking capabilities
 
-# References *(might not need but it's in the 'Writing Reports.doc')*
-# Appendices *(might not need but it's in the 'Writing Reports.doc')*
+
+References *(might not need but it's in the 'Writing Reports.doc')*
+==========
+
+Appendices *(might not need but it's in the 'Writing Reports.doc')*
+==========
