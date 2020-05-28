@@ -141,7 +141,7 @@ These diagrams help to visualise the behaviour of the system and actors across m
 ![Image of Travel Company Activity Diagram (Inbound Call)](./diagrams/ActivityDiagram-InboundCall.png)
 
 ## **Class Diagram**
-This diagram represents the structure of the classes involved in the wider system. It displays their attribuets and methods as well as the relationships that are between them, such as below:
+This diagram represents the structure of the classes involved in the wider system. It displays their attributes and methods as well as the relationships that are between them, such as below:
 ![Image of Class Diagram](./diagrams/ClassDiagram.png)
 
 ## **Collaboration Diagrams**
