@@ -73,6 +73,28 @@ Design Thinking Approach
 ========================
 *3. Describe your approach from a Design Thinking principles perspective. Your Design Thinking approach to address the problem with artefacts*
 
+## **Approach - Design Thinking**
+Design thinking is a non-linear, iterative process which seeks the understanding of users to challenge assumptions, redefine problems and create innovative solutions to prototype and test. This customer-centric approach was undertaken to address the improvements requested by the Major Travel Company for their Call Management Centre (CMC). The design thinking approach undertook consists of the execution of five phases, (1) empathize, (2) define, (3) ideate, (4) prototype and (5) test and by addressing these phrases we derived customer-centric innovation. 
+
+### Empathise
+Phrase one consisted of empathising with stakeholders, this represents anyone who is impacted by the project being developed with a particular focus extended on the end customer. Empathy is a crucial step of achieving a human-centred design process and was utilised to gain insight into users and their needs without introducing any pre imposed bias. When we create solutions, we get better solutions when we think of those who they will affect. To document these perspectives the tool of an empathy map was utilised to collaboratively visualise and share our understanding of stakeholders needs and aid future decision making. This stage allowed us to gain a deeper understanding of the perspective of the users involved and how to shape our solution. 
+
+### Define
+Phrase two of defining allowed us to synthesis the knowledge obtained in the empathise stage and define the core problems to solve. Here the problem statements were directly derived from creating point of view (POV) statements for all the stakeholders identified. This staged allowed us as a team to consolidate assumptions and agree on features to be developed to solve the problem given. 
+
+### Ideate
+Phrase three consisted of utilising the user research conducted to ideate solutions to the problem statements we created in the prior stage. The brainstorming and worst possible idea techniques were utilised to assist within our ideation stage. These techniques were chosen to initiate freeform group discussions and simulated creative solutions in light of the problems identified. These sessions consisted of developing “how might we? (HMW)” statements and deriving features relative to the point of view statements developed in the define stage. The conclusions of the brainstormed were documented in (need to do this???). At the conclusion of this stage, the agreed features were converted to issues to be developed for the prototype and testing stage. 
+
+### Prototype/Test
+The prototype and subsequent testing phrase is representative of the final stages within the design thinking approach. This consists of producing a small-scaled, mock-up of the product or specific features found within the product so that tangible investigations can occur on the problem solutions generated in the previous stage. To assist in the prototype stage the team designed artefacts representative of the design of the system and the user flow these are demonstrated within the use case diagram, activity diagrams, class diagram and collaborative diagrams provided. Due to the nature of this project, the prototype and respective testing are not within scope. 
+
+### Artefacts
+Artefact | Description
+---|---
+Empathy Maps | Is a tool used to visualise user attitudes and behaviours, this map is split into 6 quadrants (Says, Thinks, Does, Feels, Pains and Gains).
+POV Statements | Point of view statements are statements which focus on the specific user and their needs. These statements represent the teams results for the define phrase.
+How might we? (H | How might we statements represent our results of the ideate phase and are short statements built from point of view statements
+
 ## **Brainstormed Ideas and Reflection**
 *TODO*
 
