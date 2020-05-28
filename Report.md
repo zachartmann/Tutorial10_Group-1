@@ -101,10 +101,14 @@ Design Thinking Approach
 Scrum is the most widely used agile methodology for software design and development. The framework assumes that requirements and the development process are constantly and unpredictably changing which is often the case in real-world scenarios. While traditional models/approaches (e.g. Waterfall, Spiral) attempt to define all requirements upfront, requirements in agile/scrum are developed, reviewed, and iteratively updated to allow for greater adaptability to changes in client needs/feedback, technological advancements, and other environmental factors (e.g. global pandemics).
 
 ### Roles
+Scrum teams are self-organising and cross-functional meaning they are independent and trusted to be internally directed. Authority is given to the team to complete work in a manner that the team sees best fit. A number of roles exist in most scrum teams. Due to the nature of this project, the product owner and scrum master also act as members of the development team.
 
-#### Product Owner - Zac
-#### Scrum Master - Aiswarya
+#### Product Owner – Zac
+The product owner is an individual responsible for establishing and communicating the product vision including defining and prioritising features to be developed. The product owner must make quick and informed decisions while monitoring project progress and release dates.
+#### Scrum Master – Aiswarya
+The scrum master facilitates scrum team events and promotes scrum theory, rules, and practices.
 #### Development Team - Anastasia, Sanya, Sean
+The development team is responsible for building the deliverable increment of a product in each sprint.
 
 ### Events/Activities
 
