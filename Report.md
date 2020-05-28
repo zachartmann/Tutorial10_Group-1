@@ -123,7 +123,6 @@ Our sprint retrospectives were held after each sprint review to re-evaluate our 
 Due to the clashing schedules of our team members, we decided to communicate/conduct daily scrum meetings over text. Each day, progress updates and issues were discussed and any blockers were collectively reviewed and resolved.
 
 ### Artefacts
-
 Artefact | Description
 ---|---
 Product Backlog | An ordered list of all tasks/features/stories/requirements for a product (managed by product owner)
