@@ -59,13 +59,13 @@ Stakeholders refer to individuals/entities that have an interest in the developm
 
 ## **Empathy Maps**
 
-## Empathy Map - Customers
+### Empathy Map - Customers
 ![Image of Customers Empathy Map](./diagrams/EmpathyMap-Customer.png)
 
-## Empathy Map - Relationship Managers
+### Empathy Map - Relationship Managers
 ![Image of Relationship Managers Empathy Map](./diagrams/EmpathyMap-RM.png)
 
-## Empathy Map - Travel Company
+### Empathy Map - Travel Company
 ![Image of Travel Company Empathy Map](./diagrams/EmpathyMap-TravelCompany.png)
 
 
@@ -73,11 +73,10 @@ Design Thinking Approach
 ========================
 *3. Describe your approach from a Design Thinking principles perspective. Your Design Thinking approach to address the problem with artefacts*
 
-## **Ideation**
+## **Brainstormed Ideas and Reflection**
+*TODO*
 
-## Brainstormed Ideas and Reflection
-
-## How Might We (HMW) Statements
+## **How Might We (HMW) Statements**
 
 ### End-Customer
 * HMW better reach customers who have been on hold for an extended period of time.
@@ -100,6 +99,7 @@ Design Thinking Approach
 4. Explain the agile methodology, namely, Scrum you have used to carry out the procedure. In your explanation, ensure that you outline activities from Scrum that you use.
 
 
+
 Workproducts and Models
 =======================
 6. Document your proposed workproducts and models *and descriptions*.
@@ -109,16 +109,17 @@ Workproducts and Models
 
 ## **Activity Diagrams**
 
-## Activity Diagram - Outbound Calls
+### Activity Diagram - Outbound Calls
 ![Image of Travel Company Activity Diagram (Outbound Call)](./diagrams/ActivityDiagram-OutboundCall.png)
 
-## Activity Diagram - Inbound Calls
+### Activity Diagram - Inbound Calls
 ![Image of Travel Company Empathy Map](./diagrams/ActivityDiagram-InboundCall.png)
 
 ## **Class Diagram**
 ![Image of Class Diagram](./diagrams/ClassDiagram.png)
 
 ## **Collaborative Diagrams**
+*TODO: put in*
 
 
 Potential Advantages and Disadvantages
