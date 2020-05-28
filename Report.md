@@ -36,7 +36,7 @@ Over the course of system analysis, there were a few assumptions we had to make 
 * The CMC has enough processing power to handle complex computations and algorithms
 * Assume a supporting tool to create customer profiles exists, Profiler Tool.
 * Customer database already exists with information such as postcode, surnames
- Employees have the appropriate product knowledge and understand the operation of the call management centre
+* Employees have the appropriate product knowledge and understand the operation of the call management centre
 * Guidelines and a script exist for RM with outbound calls to assist them
 
 ## **List of Stakeholders**
