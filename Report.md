@@ -29,7 +29,6 @@ Problem Definition
 * Match RMs and end-customers according to RMs skills and customer profiles
 
 ## **Assumptions**
- 5. List assumptions you have made in the systems analysis.
 
 * The Profiler Tool generates an ordered list of appropriate RMs to direct calls to
 * The RM questionnaire elicits details about the RMs age, sex, culture, language proficiency, experience and product knowledge
