@@ -135,7 +135,12 @@ Workproducts and Models
 6. Document your proposed workproducts and models *and descriptions*.
 
 ## **Use Case Diagrams**
-*TODO: put in*
+
+### Use Case Diagram - Outbound Calls
+![Image of Use Case Diagram (Outbound Call)](./diagrams/UseCaseDiagram-OutboundCall.png)
+
+### Use Case Diagram - Inbound Calls
+![Image of Use Case Diagram (Inbound Call)](./diagrams/UseCaseDiagram-InboundCall.png)
 
 ## **Activity Diagrams**
 
