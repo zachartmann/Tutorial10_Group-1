@@ -96,7 +96,6 @@ Design Thinking Approach
 
 
 ## **Agile Methodology - Scrum**
-> 4. Explain the agile methodology, namely, Scrum you have used to carry out the procedure. In your explanation, ensure that you outline activities from Scrum that you use.
 
 Scrum is the most widely used agile methodology for software design and development. The framework assumes that requirements and the development process are constantly and unpredictably changing which is often the case in real-world scenarios. While traditional models/approaches (e.g. Waterfall, Spiral) attempt to define all requirements upfront, requirements in agile/scrum are developed, reviewed, and iteratively updated to allow for greater adaptability to changes in client needs/feedback, technological advancements, and other environmental factors (e.g. global pandemics).
 
@@ -129,8 +128,6 @@ Product Backlog | An ordered list of all tasks/features/stories/requirements for
 Sprint Backlog | A subset of the Product Backlog for development in a sprint (managed by development team)
 Product Increment | A potentially shippable version of the product that builds on the previous increment/version
 Sprint Burndown Chart | A graphical representation of the development team's progress over time (backlog items completed)
-
-explain "done" and "timebox"?
 
 
 Workproducts and Models
