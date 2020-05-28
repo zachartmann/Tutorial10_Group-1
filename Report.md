@@ -158,7 +158,6 @@ Workproducts and Models
 ### Collaboration Diagram - Inbound Calls
 ![Image of Collaborative Diagram (Inbound Call)](./diagrams/CollaborationDiagram-Customer.png)
 
-
 Potential Advantages and Disadvantages
 ======================================
 7. (around 500 words) Discuss the competitive advantages might be gained in developing the new information system. E.g. Potential benefits to the call center (in terms of reducing cost and being able to carry out more effective calls). Identify and discuss the possible adverse effects for this Business if its information system project fails. 
