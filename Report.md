@@ -27,7 +27,14 @@ Problem Definition
 * Match RMs and end-customers according to RMs skills and customer profiles
 
 ## **Assumptions**
-5. List assumptions you have made in the systems analysis.
+Over the course of system analysis, there were a few assumptions we had to make in order to understand the system as a whole. These assumptions are listed below:
+* The Profiler Tool generates an ordered list of appropriate RMs to direct calls to
+* The RM questionnaire elicits details about the RMs age, sex, culture, language proficiency, experience and product knowledge
+* The CMC has enough processing power to handle complex computations and algorithms
+* Assume a supporting tool to create customer profiles exists, Profiler Tool.
+* Customer database already exists with information such as postcode, surnames
+* Employees have the appropriate product knowledge and understand the operation of the call management centre
+* Guidelines and a script exist for RM with outbound calls to assist them
 
 ## **List of Stakeholders**
 Stakeholders refer to individuals/entities that have an interest in the development of an information system. The key stakeholders of this project are:
@@ -123,6 +130,8 @@ Sprint Burndown Chart | A graphical representation of the development team's pro
 Workproducts and Models
 =======================
 6. Document your proposed workproducts and models *and descriptions*.
+
+The Collaboration Diagram for Customer emphasises the structure of interactions between the Customer, Relationship manager, Call Management Centre(CMC) and Interactive voice Response unit. The diagram defines the role of each object or actor.  This diagram  follows Customer’s journey from calling the Call Management Centre through to the payment confirmation text for the order.
 
 ## **Use Case Diagrams**
 Use case diagrams help to visualise the expected behaviour of the interacts between the users (customers), the system and other actions (namely Relationship Managers) and describes system behaviour but not how it will be done. Thus use case diagrams assists us in designing a system from the end user's perspective. The diagrams below show this in regards to outbound and inbound calls respectively:
