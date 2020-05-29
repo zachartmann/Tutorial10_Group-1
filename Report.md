@@ -31,10 +31,10 @@ In the duration of this project the following assumption's were considered in al
 
 * The CMC has enough processing power to handle complex computations and algorithms.
 * The CMC is already equipped with all data with information such as a customer database with information such as postcode, surnames.
-* Employee’s within Major Travel Company have appropriate product knowledge and understanding of the operations within the call management centre (CMC).
+* Employee’s within Major Travel Company have appropriate product knowledge and understanding of the operations within the CMC.
 * The functionality of the inbuilt profiler tool includes customer profile generation and allows the CMC to auto-generate a list of customers for specified Relationship Manager’s (RM’s).
 * The details elicited from the RM question includes RM’s age, sex, culture, language proficiency, experience and product knowledge. 
-* The CMC autogenerates genetic scripts and guidelines to assist RM sales.
+* The CMC autogenerates generic scripts and guidelines to assist RM sales.
 * The current interactive response unit has limited functionality to ensure customer retention with no hold music or ticketing system during peak traffic. 
 
 ## **List of Stakeholders**
