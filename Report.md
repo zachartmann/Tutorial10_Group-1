@@ -33,7 +33,7 @@ In the duration of this project the following assumption's were considered in al
 * The CMC is already equipped with all data with information such as a customer database with information such as postcodes and surnames.
 * Employee’s within Major Travel Company have appropriate product knowledge and understanding of the operations within the CMC.
 * The functionality of the inbuilt profiler tool includes customer profile generation and allows the CMC to auto-generate a list of customers for specified Relationship Manager’s (RM’s).
-* The details elicited from the RM question includes RM’s age, sex, culture, language proficiency, experience and product knowledge. 
+* The details elicited from the RM questionaire includes RM’s age, sex, culture, language proficiency, experience and product knowledge. 
 * The CMC autogenerates generic scripts and guidelines to assist RM sales.
 * The current interactive response unit has limited functionality to ensure customer retention with no hold music or ticketing system during peak traffic. 
 
