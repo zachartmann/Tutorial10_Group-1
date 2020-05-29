@@ -66,8 +66,6 @@ Stakeholders refer to individuals/entities that have an interest in the developm
 
 Design Thinking Approach
 ========================
-*3. Describe your approach from a Design Thinking principles perspective. Your Design Thinking approach to address the problem with artefacts*
-
 ## **Brainstormed Ideas and Reflection**
 The following features were concluded from the brainstorming session. 
 Feature | Justification
@@ -132,10 +130,6 @@ Sprint Burndown Chart | A graphical representation of the development team's pro
 
 Workproducts and Models
 =======================
-6. Document your proposed workproducts and models *and descriptions*.
-
-The Collaboration Diagram for Customer emphasises the structure of interactions between the Customer, Relationship manager, Call Management Centre(CMC) and Interactive voice Response unit. The diagram defines the role of each object or actor.  This diagram  follows Customer’s journey from calling the Call Management Centre through to the payment confirmation text for the order.
-
 ## **Use Case Diagrams**
 Use case diagrams help to visualise the expected behaviour of the interacts between the users (customers), the system and other actions (namely Relationship Managers) and describes system behaviour but not how it will be done. Thus use case diagrams assists us in designing a system from the end user's perspective. The diagrams below show this in regards to outbound and inbound calls respectively:
 ### Use Case Diagram - Outbound Calls
