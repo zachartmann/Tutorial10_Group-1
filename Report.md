@@ -27,14 +27,15 @@ Problem Definition
 * Match RMs and end-customers according to RMs skills and customer profiles
 
 ## **Assumptions**
-Over the course of system analysis, there were a few assumptions we had to make in order to understand the system as a whole. These assumptions are listed below:
-* The Profiler Tool generates an ordered list of appropriate RMs to direct calls to
-* The RM questionnaire elicits details about the RMs age, sex, culture, language proficiency, experience and product knowledge
+In the duration of this project the following assumption's were considered in all system analysis and feature recommendations. 
+
 * The CMC has enough processing power to handle complex computations and algorithms
-* Assume a supporting tool to create customer profiles exists, Profiler Tool.
-* Customer database already exists with information such as postcode, surnames
-* Employees have the appropriate product knowledge and understand the operation of the call management centre
-* Guidelines and a script exist for RM with outbound calls to assist them
+* The CMC is already equipped with all data with information such as a customer database with information such as postcode, surnames
+* Employee’s within Major Travel Company have appropriate product knowledge and understanding of the operations within the call management centre (CMC).
+* The functionality of the inbuilt profiler tool includes customer profile generation and allows the CMC to auto-generate a list of customers for specified Relationship Manager’s (RM’s).
+* The details elicited from the RM question includes RM’s age, sex, culture, language proficiency, experience and product knowledge. 
+* The CMC autogenerates genetic scripts and guidelines to assist RM sales.
+* The current interactive response unit has limited functionality to ensure customer retention with no hold music or ticketing system during peak traffic. 
 
 ## **List of Stakeholders**
 Stakeholders refer to individuals/entities that have an interest in the development of an information system. The key stakeholders of this project are:
