@@ -125,7 +125,8 @@ Workproducts and Models
 6. Document your proposed workproducts and models *and descriptions*.
 
 ## **Use Case Diagrams**
-These diagrams help to visualise scenarios where there is interaction between users, the system, and other actors (namely Relationship Managers), describing what the system will do but not how it will be done. The diagrams below show this in regards to outbound and inbound calls respectively:
+Use case diagrams help to visualise the expected behaviour of the interacts between the users (customers), the system and other actions (namely Relationship Managers) and describes system behaviour but not how it will be done. Thus use case diagrams assists us in designing a system from the end user's perspective. The diagrams below show this in regards to outbound and inbound calls respectively:
+
 ### Use Case Diagram - Outbound Calls
 ![Image of Use Case Diagram (Outbound Call)](./diagrams/UseCaseDiagram-OutboundCall.png)
 
