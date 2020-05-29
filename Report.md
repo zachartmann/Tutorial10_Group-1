@@ -93,7 +93,7 @@ Artefact | Description
 ---|---
 Empathy Maps | Is a tool used to visualise user attitudes and behaviours, this map is split into 6 quadrants (Says, Thinks, Does, Feels, Pains and Gains).
 POV Statements | Point of view statements are statements which focus on the specific user and their needs. These statements represent the team's results for the define phase.
-How might we? (H | How might we statements represent our results of the ideate phase and are short statements built from point of view statements
+How might we? (HMW) | How might we statements represent our results of the ideate phase and are short statements built from point of view statements
 
 ## **Brainstormed Ideas and Reflection**
 *TODO*
