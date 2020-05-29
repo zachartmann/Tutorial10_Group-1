@@ -6,12 +6,10 @@ Table of Contents *(might not need but it's in the 'Writing Reports.doc')*
 Acknowledgements *(might not need but it's in the 'Writing Reports.doc')*
 ================
 
-
 Executive Summary
 =================
 *// SOMEONE MAKE THIS BETTER*
-This report presents the definition, analysis, and design of an improved information system solution for the call management centre (CMC) of a major travel company. The Design Thinking principles and agile methodology (Scrum) used are discussed, and iterative progress is documented on GitHub.
-
+This report presents the definition, analysis, and design of an improved information system solution for the call management centre (CMC) of a major travel company. The Design Thinking principles and agile methodology (Scrum) used are discussed, and iterative progress is documented on GitHub. By first defining the problem the team can acquire great insight into the issue at hand and the objectives and milestones to be achieved. Identifying the key stakeholders will allow the team to understand their target audience and collate opinions, ideas and thoughts to further analyse motives and expectations; the Design Thinking principles will aid in framing the team's approach. Assumptions are then made by the team in order to fill in minor gaps and allow fluidity when conducting iterations. Along with documenting assumptions, overall planning is highly important in any project (especially one of technical nature), which is why there are many models and diagrams before implementation. Finally, recognising the competitive advantages that may be gained in developing the new system, helps stakeholders see the ultimate value and goal of what needs to change and grow within their business and why they are even investing in this project.
 
 Problem Definition
 ==================
@@ -29,10 +27,16 @@ Problem Definition
 * Match RMs and end-customers according to RMs skills and customer profiles
 
 ## **Assumptions**
- 5. List assumptions you have made in the systems analysis.
+Over the course of system analysis, there were a few assumptions we had to make in order to understand the system as a whole. These assumptions are listed below:
+* The Profiler Tool generates an ordered list of appropriate RMs to direct calls to
+* The RM questionnaire elicits details about the RMs age, sex, culture, language proficiency, experience and product knowledge
+* The CMC has enough processing power to handle complex computations and algorithms
+* Assume a supporting tool to create customer profiles exists, Profiler Tool.
+* Customer database already exists with information such as postcode, surnames
+* Employees have the appropriate product knowledge and understand the operation of the call management centre
+* Guidelines and a script exist for RM with outbound calls to assist them
 
 ## **List of Stakeholders**
-
 Stakeholders refer to individuals/entities that have an interest in the development of an information system. The key stakeholders of this project are:
 
 * Customers
@@ -40,7 +44,6 @@ Stakeholders refer to individuals/entities that have an interest in the developm
 * Travel Company
 
 ## **Point of View (POV) Statements**
-
 ### Customers
 * Customers calling the travel company need to  have their call answered in a timely manner because current situation has customers waiting on the phone with no RM callback
 * Customers speaking to a Relationship Manager need to be  matched with an RM who has the required language proficiency because current situation has customers being inadequately paired with RMs who don’t meet skill/language requirements.
@@ -58,7 +61,6 @@ Stakeholders refer to individuals/entities that have an interest in the developm
 * Relationship Managers need to have an established profile (depending on the age, sex, culture, language proficiency, experience and product knowledge) because in the current situation, customers are allocated based on RM’s expertise 
 
 ## **Empathy Maps**
-
 ### Empathy Map - Customers
 ![Image of Customers Empathy Map](./diagrams/EmpathyMap-Customer.png)
 
@@ -67,7 +69,6 @@ Stakeholders refer to individuals/entities that have an interest in the developm
 
 ### Empathy Map - Travel Company
 ![Image of Travel Company Empathy Map](./diagrams/EmpathyMap-TravelCompany.png)
-
 
 Design Thinking Approach
 ========================
@@ -99,7 +100,6 @@ How might we? (HMW) | How might we statements represent our results of the ideat
 *TODO*
 
 ## **How Might We (HMW) Statements**
-
 ### End-Customer
 * HMW better reach customers who have been on hold for an extended period of time.
 * HMW better match customers to RMs so they have a high quality of customer service.
@@ -116,9 +116,7 @@ How might we? (HMW) | How might we statements represent our results of the ideat
 * HMW monitor KPIs.
 * HMW manage incoming calls so that they do not add additional costs to the travel company by occupying human resources (Relationship Managers).
 
-
 ## **Agile Methodology - Scrum**
-
 Scrum is the most widely used agile methodology for software design and development. The framework assumes that requirements and the development process are constantly and unpredictably changing which is often the case in real-world scenarios. While traditional models/approaches (e.g. Waterfall, Spiral) attempt to define all requirements upfront, requirements in agile/scrum are developed, reviewed, and iteratively updated to allow for greater adaptability to changes in client needs/feedback, technological advancements, and other environmental factors (e.g. global pandemics).
 
 ### Roles
@@ -151,12 +149,14 @@ Sprint Backlog | A subset of the Product Backlog for development in a sprint (ma
 Product Increment | A potentially shippable version of the product that builds on the previous increment/version
 Sprint Burndown Chart | A graphical representation of the development team's progress over time (backlog items completed)
 
-
 Workproducts and Models
 =======================
 6. Document your proposed workproducts and models *and descriptions*.
 
+The Collaboration Diagram for Customer emphasises the structure of interactions between the Customer, Relationship manager, Call Management Centre(CMC) and Interactive voice Response unit. The diagram defines the role of each object or actor.  This diagram  follows Customer’s journey from calling the Call Management Centre through to the payment confirmation text for the order.
+
 ## **Use Case Diagrams**
+Use case diagrams help to visualise the expected behaviour of the interacts between the users (customers), the system and other actions (namely Relationship Managers) and describes system behaviour but not how it will be done. Thus use case diagrams assists us in designing a system from the end user's perspective. The diagrams below show this in regards to outbound and inbound calls respectively:
 ### Use Case Diagram - Outbound Calls
 ![Image of Use Case Diagram (Outbound Call)](./diagrams/UseCaseDiagram-OutboundCall.png)
 
@@ -164,6 +164,7 @@ Workproducts and Models
 ![Image of Use Case Diagram (Inbound Call)](./diagrams/UseCaseDiagram-InboundCall.png)
 
 ## **Activity Diagrams**
+These diagrams help to visualise the behaviour of the system and actors across multiple use cases, including decisions and the flow of what happens, still not describing the how. The diagrams below show this in regards to outbound and inbound calls respectively:
 ### Activity Diagram - Outbound Calls
 ![Image of Travel Company Activity Diagram (Outbound Call)](./diagrams/ActivityDiagram-OutboundCall.png)
 
@@ -171,9 +172,11 @@ Workproducts and Models
 ![Image of Travel Company Activity Diagram (Inbound Call)](./diagrams/ActivityDiagram-InboundCall.png)
 
 ## **Class Diagram**
+This diagram represents the structure of the classes involved in the wider system. It displays their attributes and methods as well as the relationships that are between them, such as below:
 ![Image of Class Diagram](./diagrams/ClassDiagram.png)
 
 ## **Collaboration Diagrams**
+These diagrams represents the dynamic behaviour of objects and the structure of the interactions between them. It also displays the sequence of these interactions through numbering; however, focuses more on the messages that flow between each object rather than time-based interactions (seen in sequences diagrams). The diagrams below show this in regards to outbound and inbound calls respectively:
 ### Collaboration Diagram - Outbound Calls
 ![Image of Collaboration Diagram (Outbound Call)](./diagrams/CollaborationDiagram-RM.png)
 
@@ -182,8 +185,6 @@ Workproducts and Models
 
 Potential Advantages and Disadvantages
 ======================================
-7. (around 500 words) Discuss the competitive advantages might be gained in developing the new information system. E.g. Potential benefits to the call center (in terms of reducing cost and being able to carry out more effective calls). Identify and discuss the possible adverse effects for this Business if its information system project fails. 
-
 ## **Competitive Advantage**
 Developing this new information system, if successful, will lead to a plethora of competitive advantages against other major travel companies looking to increase their customer loyalty or retention. Currently, the major travel company involved is in a great position in the market but has some areas that it is lacking in. For example, the CMC (Call Management Centre) has reduced operating efficiency due to call flow control and call routing issues. This leads to some customers having long wait times and drives up the inbound call cost of the CMC. Through the information system, these areas could be improved and provide many advantages.
 
