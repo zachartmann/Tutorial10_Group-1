@@ -95,37 +95,35 @@ Design Thinking Approach
 * HMW manage incoming calls so that they do not add additional costs to the travel company by occupying human resources (Relationship Managers).
 
 ## **Agile Methodology - Scrum**
-Scrum is the most widely used agile methodology for software design and development. The framework assumes that requirements and the development process are constantly and unpredictably changing which is often the case in real-world scenarios. While traditional models/approaches (e.g. Waterfall, Spiral) attempt to define all requirements upfront, requirements in agile/scrum are developed, reviewed, and iteratively updated to allow for greater adaptability to changes in client needs/feedback, technological advancements, and other environmental factors (e.g. global pandemics).
+Scrum is the most widely used agile methodology for software design and development. The framework assumes that requirements and processes constantly/ unpredictably change which is often the case in real-world scenarios. Requirements are developed and reviewed iteratively to allow for greater adaptability to changes in client needs, technological advancements, and other environmental factors (e.g. global pandemics).
 
 ### Roles
-Scrum teams are self-organising and cross-functional meaning they are independent and trusted to be internally directed. Authority is given to the team to complete work in a manner that the team sees best fit. A number of roles exist in most scrum teams. Due to the nature of this project, the product owner and scrum master also act as members of the development team.
+Scrum teams are self-organising and cross-functional meaning they are independent and trusted to complete work as they see fit. The nature of this project required the product owner and scrum master to double as members of the development team.
 
-#### Product Owner – Zac
-The product owner is an individual responsible for establishing and communicating the product vision including defining and prioritising features to be developed. The product owner must make quick and informed decisions while monitoring project progress and release dates.
-#### Scrum Master – Aiswarya
-The scrum master facilitates scrum team events and promotes scrum theory, rules, and practices.
-#### Development Team - Anastasia, Sanya, Sean
-The development team is responsible for building the deliverable increment of a product in each sprint.
+Role | Team Member | Responsibilities
+--- | --- | ---
+Product Owner | Zac | Establishes, communicates, and monitors the progress of the product vision including defining and prioritising features to be developed.
+Scrum Master | Aiswarya | Facilitates scrum team events and promotes scrum theory, rules, and practices.
+Development team | Anastasia, Sanya, Sean | Builds and delivers a working increment of the project in every sprint.
 
 ### Events/Activities
 A sprint is a fixed period of time after which a deliverable iteration of a product must be developed. The following activities were conducted in each of our team's 1-week sprints (Sunday to Friday).
 
-#### Sprint Planning
-Our team conducted sprint planning sessions on the first day of each sprint (Sunday). In these meetings we established the goals for the current sprint, and reviewed the stories/issues in the backlog. The tasks for each sprint were allocated to members of the development team and moved from the “Backlog” column (on project board) to the “Ready for Dev” column.
-#### Sprint Review
-Sprint reviews were held every Friday for members of the development team to explain and deliver their work for the given sprint. The product owner and other team members evaluated what was completed and determined the progress made and tasks left to complete.
-#### Sprint Retrospective
-Our sprint retrospectives were held after each sprint review to re-evaluate our workflow, communication, and any other issues that arose during the sprint.
-#### Daily Scrum
-Due to the clashing schedules of our team members, we decided to communicate/conduct daily scrum meetings over text. Each day, progress updates and issues were discussed and any blockers were collectively reviewed and resolved.
+Event | Description
+--- | ---
+Sprint Planning | Conducted on the first day of each sprint, these meetings established and reviewed backlog tasks/issues/goals for the current sprint. Tasks were assigned to members and moved to “Ready for dev” on the project board.
+Sprint Review | Every Friday, the development team explained and delivered their work for the sprint. This progress was evaluated and tasks left to complete were determined.
+Sprint Retrospective | After each sprint review, we re-evaluated and improved/resolved our workflow, communication, and other issues that arose during the sprint.
+Daily Scrum | Each day, progress updates and issues were discussed and resolved. Due to our team’s clashing schedules, most daily scrum meetings were agreed to be communicated over text.
+
 
 ### Artefacts
 Artefact | Description
 ---|---
-Product Backlog | An ordered list of all tasks/features/stories/requirements for a product (managed by product owner)
-Sprint Backlog | A subset of the Product Backlog for development in a sprint (managed by development team)
-Product Increment | A potentially shippable version of the product that builds on the previous increment/version
-Sprint Burndown Chart | A graphical representation of the development team's progress over time (backlog items completed)
+Product Backlog | Prioritised list of all tasks/requirements for a product.
+Sprint Backlog | Subset of the Product Backlog for development during a sprint.
+Product Increment | Potentially shippable version of the product built each sprint.
+Sprint Burndown Chart | Graphical representation of development progress over time (backlog items completed).
 
 Workproducts and Models
 =======================
