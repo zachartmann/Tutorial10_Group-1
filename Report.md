@@ -126,7 +126,6 @@ Workproducts and Models
 
 ## **Use Case Diagrams**
 Use case diagrams help to visualise the expected behaviour of the interacts between the users (customers), the system and other actions (namely Relationship Managers) and describes system behaviour but not how it will be done. Thus use case diagrams assists us in designing a system from the end user's perspective. The diagrams below show this in regards to outbound and inbound calls respectively:
-
 ### Use Case Diagram - Outbound Calls
 ![Image of Use Case Diagram (Outbound Call)](./diagrams/UseCaseDiagram-OutboundCall.png)
 
