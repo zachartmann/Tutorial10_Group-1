@@ -30,7 +30,7 @@ Problem Definition
 In the duration of this project the following assumption's were considered in all system analysis and feature recommendations. 
 
 * The CMC has enough processing power to handle complex computations and algorithms.
-* The CMC is already equipped with all data with information such as a customer database with information such as postcode, surnames.
+* The CMC is already equipped with all data with information such as a customer database with information such as postcodes and surnames.
 * Employee’s within Major Travel Company have appropriate product knowledge and understanding of the operations within the CMC.
 * The functionality of the inbuilt profiler tool includes customer profile generation and allows the CMC to auto-generate a list of customers for specified Relationship Manager’s (RM’s).
 * The details elicited from the RM question includes RM’s age, sex, culture, language proficiency, experience and product knowledge. 
