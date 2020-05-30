@@ -8,6 +8,10 @@ Link to Project GitHub repository: [Tutorial10_Group-1](https://github.com/zacaz
 
 Problem Definition
 ==================
+Customer experience is heavily impacted because of the call flow rate  in the (CMC) as customers are not being assigned to well informed RMs that have the  most appropriate knowledge about that particular holiday destination and its traditions i.e. their skillset, as well ability to cater to that Customer’s profile. This in turn is impacting RMs performance in selling packages and serving customers effectively and efficiently.  
+There is also not a defined guideline for RMs to approach outbound calls which effects the service provided to the end customer. High costs associated with inbound calls from Customers due to the per-call handling time is also something that needs to be factored in. 
+Furthermore, a key issue faced by customers is waiting times during busy times this can have a negative impact on the major  travel company’s brand and make them potentially loose customers. 
+
 * The current Call Management Centre provides suboptimal:
   * Waiting times
   * RM to customer matching (mismatch)
@@ -16,6 +20,8 @@ Problem Definition
 * The Call Management Centre currently provides a suboptimal user experience, due to wait times and poor customer-RM matching, leading to user disatisfaction
 
 ## **Objectives**
+This project is designed to help the major travel company develop an information system to improve the functionality of their in-house Call Management Centre. This is done by adjusting the call flow rate to match customers to a suitable Relationship manager, based on their skillset, product knowledge and profile.The aim is to improve the customer experience and satisfaction. Ultimately the goal is to increase the sales of holiday packages adding to the profitability and provide better assistance to Relationship managers performing sales.
+
 * Develop an information to improve operation of the Call Management Centre
 * Adjust call flow-rate to Relationship Managers
 * Improving profitability and customer satisfaction
