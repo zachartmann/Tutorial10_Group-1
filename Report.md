@@ -169,7 +169,7 @@ From a more business-centric point of view, the travel company will save costs i
 ## **Possible Effects of Project Failure**
 If the information system is ineffective, there are some considerable adverse effects to first take into account. Ranging from the loss of customers to increased operating costs for no benefit, the adverse effects possible should be weighed into consideration alongside the competitive advantages to most accurately see the possible result of the information system.
 
-By communicating to users that the travel company is implementing a solution to their biggest issues, there is an inherent risk if we fail to deliver. If the solution fails to meet expectation, customers may feel rightly disappointed. If these issues have been ongoing, those who expected an end to their problems may be especially upset and cease interaction with the travel company. There is then a high risk these customers will move to one of the company's direct competitors - a huge competitive disadvantage.
+By communicating to users that the travel company is implementing a solution to their biggest issues, there is an inherent risk if we fail to deliver. If the solution fails to meet expectation, customers may feel rightly disappointed particularly if these issues have been ongoing. There is a high risk that they may cease interaction with the travel company and move on to a competitor - a huge competitive disadvantage.
 
 Additionally, there is a small risk that the increase in tasks performed by CMC may slow its efficiency. This would provide a compounded effect, where the CMC is not only slower but expected to be faster too. This lower efficiency will lead to higher inbound call costs and reduced call flow handling.
 
