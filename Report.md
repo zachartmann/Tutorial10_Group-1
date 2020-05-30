@@ -164,7 +164,7 @@ Developing this new information system, if successful, will lead to a plethora o
 
 Lessening the call flow control/routing issues through the development of the new information system will reduce wait times for customers and provide more effective matches with RMs (Relationship Managers). This enhancement in user experience will improve customer retention, as they see changes being made in the system for their benefit. In addition, implementing an easier method of feedback elicitation could lead to a large uptake in customer loyalty due to their opinions being taken into consideration. The above points will inadvertently put greater pressure on competitors to keep up, providing an extraordinary competitive advantage.
 
-From a more business-centric point of view, the travel company will save costs in handling the increasing customer base. This is because of the information system's ability to reduce per-call handling time, which reduces inbound call costs.
+From a more business-centric point of view, the travel company will save costs in handling the increasing customer base. This is due to the information system's ability to reduce per-call handling time, which reduces inbound call costs.
 
 ## **Possible Effects of Project Failure**
 If the information system is ineffective, there are some considerable adverse effects to first take into account. Ranging from the loss of customers to increased operating costs for no benefit, the adverse effects possible should be weighed into consideration alongside the competitive advantages to most accurately see the possible result of the information system.
