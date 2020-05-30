@@ -8,8 +8,9 @@ Acknowledgements *(might not need but it's in the 'Writing Reports.doc')*
 
 Executive Summary
 =================
-*// SOMEONE MAKE THIS BETTER*
 This report presents the definition, analysis, and design of an improved information system solution for the call management centre (CMC) of a major travel company. The Design Thinking principles and agile methodology (Scrum) used are discussed, and iterative progress is documented on GitHub. By first defining the problem the team can acquire great insight into the issue at hand and the objectives and milestones to be achieved. Identifying the key stakeholders will allow the team to understand their target audience and collate opinions, ideas and thoughts to further analyse motives and expectations; the Design Thinking principles will aid in framing the team's approach. Assumptions are then made by the team in order to fill in minor gaps and allow fluidity when conducting iterations. Along with documenting assumptions, overall planning is highly important in any project (especially one of technical nature), which is why there are many models and diagrams before implementation. Finally, recognising the competitive advantages that may be gained in developing the new system, helps stakeholders see the ultimate value and goal of what needs to change and grow within their business and why they are even investing in this project.
+
+Link to Project GitHub repository: [Tutorial10_Group-1](https://github.com/zacaz90/Tutorial10_Group-1)
 
 Problem Definition
 ==================
