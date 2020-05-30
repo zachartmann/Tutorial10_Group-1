@@ -197,8 +197,7 @@ By communicating to users that the travel company is implementing a solution to 
 
 Additionally, there is a small risk that the increase in tasks performed by the CMC may decrease its effectiveness. This would provide a run-on effect, whereby the CMC is not only slower but expected to be faster too. This lower efficiency would lead to higher inbound call costs and reduced call flow handling.
 
-Conclusion *or* Explanation of each iteration intention, rationale, focus?
+Conclusion
 ==========
-8. Document in GitHub all your iteration and models as you progress.
 
-Recording the intention, rationale, and focus of each system’s development iteration using Github’s commit messages, project boards, and issue tracking capabilities
+In conclusion, it is recommended that this major travel company implement the new features designed/described in this report. Appropriate Design Thinking principles and Scrum framework have been applied to effectively analyse the company's current situation and develop both non-technical (Use Case Diagrams, Activity Diagrams) and technical (Class Diagram, Collaboration Diagrams) models for development of the enhanced information system. Upon implementation, the major travel company will likely benefit from increased relationship manager efficiency and customer satisfaction.
