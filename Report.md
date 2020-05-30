@@ -171,7 +171,7 @@ If the information system is ineffective, there are some considerable adverse ef
 
 By communicating to users that the travel company is implementing a solution to their biggest issues, there is an inherent risk if we fail to deliver. If the solution fails to meet expectation, customers may feel rightly disappointed particularly if these issues have been ongoing. There is a high risk that they may cease interaction with the travel company and move on to a competitor - a huge competitive disadvantage.
 
-Additionally, there is a small risk that the increase in tasks performed by CMC may slow its efficiency. This would provide a compounded effect, where the CMC is not only slower but expected to be faster too. This lower efficiency will lead to higher inbound call costs and reduced call flow handling.
+Additionally, there is a small risk that the increase in tasks performed by the CMC may decrease its effectiveness. This would provide a run-on effect, whereby the CMC is not only slower but expected to be faster too. This lower efficiency will lead to higher inbound call costs and reduced call flow handling.
 
 Conclusion *or* Explanation of each iteration intention, rationale, focus?
 ==========
