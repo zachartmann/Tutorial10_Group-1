@@ -81,7 +81,7 @@ Design thinking is a non-linear, iterative process which seeks the understanding
 Phase one consisted of empathising with stakeholders. This represents anyone who is impacted by the project being developed with a particular focus extended on the end customer. Empathy is a crucial step in achieving a human-centred design process and was utilised to gain insight into users and their needs without introducing any pre imposed bias. When we create solutions, we get better solutions when we think of those who will be affected. To document these perspectives, empathy maps were utilised to collaboratively visualise and share our understanding of stakeholders needs and aid future decision making. This stage allowed us to gain a deeper understanding of the perspective of the users involved and how to shape our solution. 
 
 ### Define
-Phase two of defining allowed us to synthesise the knowledge obtained in the empathise stage and define the core problems to solve. Here the problem statements were directly derived from creating point of view (POV) statements for all the stakeholders identified. This staged allowed us as a team to consolidate assumptions and agree on features to be developed to solve the problem given. 
+Phase two, define allowed us to synthesise the knowledge obtained in the empathise stage and define the core problems to solve. Here the problem statements were directly derived from creating point of view (POV) statements for all the stakeholders identified. This stage allowed us as a team to consolidate assumptions and agree on features to be developed to solve the problem given. 
 
 ### Ideate
 Phase three consisted of utilising the user research conducted to ideate solutions to the problem statements we created in the prior stage. The brainstorming and 'worst possible idea' techniques were utilised to assist within our ideation stage. These techniques were chosen to initiate freeform group discussions and simulated creative solutions in light of the problems identified. These sessions consisted of developing “how might we? (HMW)” statements and deriving features relative to the point of view statements developed in the define stage. The conclusions of the brainstormed features were documented into git via issues. At the conclusion of this stage, the agreed-upon features were converted to issues to be developed for the prototype and testing stage. 
@@ -92,7 +92,7 @@ The prototype and subsequent testing phase is representative of the final stages
 ### Artefacts
 Artefact | Description
 ---|---
-Empathy Maps | Is a tool used to visualise user attitudes and behaviours. This map is split into 6 quadrants (Says, Thinks, Does, Feels, Pains and Gains).
+Empathy Maps | Empathy Maps are used to visualise user attitudes and behaviours. This map is split into 6 quadrants (Says, Thinks, Does, Feels, Pains and Gains).
 POV Statements | Point of view statements are statements which focus on the specific user and their needs. These statements represent the team’s results for the define phase.
 How might we? (HMW) | How might we statements represent our results of the ideate phase and are short statements built from point of view statements
 
