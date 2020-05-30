@@ -35,9 +35,9 @@ In the duration of this project the following assumption's were considered in al
 ## **List of Stakeholders**
 Stakeholders refer to individuals/entities that have an interest in the development of an information system. The key stakeholders of this project are:
 
-* Customers
-* Relationship Managers (RMs)
-* Travel Company
+* **Customers** - explore and purchase holiday packages from the travel company via the CMC
+* **Relationship Managers (RMs)** - perform sales of holiday packages through inbound/outbound customer calls
+* **Travel Company** - attempts to make profit utilising the CMC to sell holiday packages, controls key business functions (e.g. investments, human resources)
 
 ## **Point of View (POV) Statements**
 ### Customers
