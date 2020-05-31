@@ -20,7 +20,7 @@ Furthermore, a key issue faced by customers is waiting times during busy times t
 * The Call Management Centre currently provides a suboptimal user experience, due to wait times and poor customer-RM matching, leading to user disatisfaction
 
 ## **Objectives**
-This project is designed to help the major travel company develop an information system to improve the functionality of their in-house Call Management Centre. This is done by adjusting the call flow rate to match customers to a suitable Relationship manager, based on their skillset, product knowledge and profile.The aim is to improve the customer experience and satisfaction. Ultimately the goal is to increase the sales of holiday packages adding to the profitability and provide better assistance to Relationship managers performing sales.
+This project is designed to help the major travel company develop an information system to improve the functionality of their in-house Call Management Centre. This is done by adjusting the call flow rate to match customers to a suitable Relationship manager, based on their skillset, product knowledge and profile. The aim is to improve the customer experience and satisfaction. Ultimately the objective is to increase the sales of holiday packages adding to the profitability and provide better assistance to Relationship managers performing sales.
 
 * Develop an information to improve operation of the Call Management Centre
 * Adjust call flow-rate to Relationship Managers
