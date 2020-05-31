@@ -8,18 +8,15 @@ Link to Project GitHub repository: [Tutorial10_Group-1](https://github.com/zacaz
 
 Problem Definition
 ==================
-* The current Call Management Centre provides suboptimal:
-  * Waiting times
-  * RM to customer matching (mismatch)
-  * Prioritisation of customers
-  * Inbound call costs
-* The Call Management Centre currently provides a suboptimal user experience, due to wait times and poor customer-RM matching, leading to user disatisfaction
+Customer experience is heavily impacted because of the call flow rate in the (CMC), as customers are not being assigned to well informed RMs that have the most appropriate knowledge about that particular holiday destination and its traditions i.e. their skillset. This, in turn, is impacting RMs performance in selling packages and serving customers effectively and efficiently.  
+
+There is also no defined guideline for RMs to approach outbound calls, which affects the service provided to the end customer. High costs associated with inbound calls from customers due to the per-call handling time is also of concern. 
+
+Furthermore, a key issue faced by customers is waiting times during busy times. This can have a negative impact on the major travel company’s brand and make them potentially lose customers. 
 
 ## **Objectives**
-* Develop an information to improve operation of the Call Management Centre
-* Adjust call flow-rate to Relationship Managers
-* Improving profitability and customer satisfaction
-* Match RMs and end-customers according to RMs skills and customer profiles
+
+This project is designed to help the major travel company develop an information system to improve the functionality of their in-house Call Management Centre. This is done by adjusting the call flow rate to match customers to a suitable relationship manager, based on their skillset, product knowledge and profile. The aim is to improve the customer experience and satisfaction. Ultimately the objective is to increase the sales of holiday packages adding to the profitability and provide better assistance to relationship managers performing sales.
 
 ## **Assumptions**
 In the duration of this project the following assumption's were considered in all system analysis and feature recommendations. 
@@ -35,26 +32,26 @@ In the duration of this project the following assumption's were considered in al
 ## **List of Stakeholders**
 Stakeholders refer to individuals/entities that have an interest in the development of an information system. The key stakeholders of this project are:
 
-* Customers
-* Relationship Managers (RMs)
-* Travel Company
+* **Customers** - explore and purchase holiday packages from the travel company via the CMC
+* **Relationship Managers (RMs)** - perform sales of holiday packages through inbound/outbound customer calls
+* **Travel Company** - attempts to make profit utilising the CMC to sell holiday packages, controls key business functions (e.g. operational expenses, human resources)
 
 ## **Point of View (POV) Statements**
 ### Customers
-* Customers calling the travel company need to  have their call answered in a timely manner because current situation has customers waiting on the phone with no RM callback
-* Customers speaking to a Relationship Manager need to be  matched with an RM who has the required language proficiency because current situation has customers being inadequately paired with RMs who don’t meet skill/language requirements.
+* Customers calling the travel company need to  have their call answered in a timely manner because the current situation has customers waiting on the phone with no RM callback
+* Customers speaking to a Relationship Manager need to be  matched with an RM who has the required language proficiency because the current situation has customers being inadequately paired with RMs who don’t meet skill/language requirements
 * Customers with little travelling experience need to  call an RM capable of assisting them in finding a package to suit their needs because in the current situation, some customers are finding imperfect packages due to inadequate RM matching
 
 ### Travel Company
-* Travel Company managing RM staff need to determine which staff members are underperforming in  regards to reaching their KPIs because current situation doesn’t have a system with the capabilities of KPI tracking
-* Travel Company managing incoming calls need to manage incoming calls so that no additional call costs impact company budget because the current situation doesn’t have a system which effectively manages incoming calls without causing unforeseen impacts to potential end-users 
-* Travel Company managing customer relations need to improve CMC operation and call flow rate because currently, customers are complaining about wait times
-* Travel Company managing customer relations need to To profile RMs because RMs are not being matched effectively with customers being served
+* Travel Company managing RM staff needs to determine which staff members are underperforming (reaching KPIs) because the current situation does not have a system with KPI tracking capabilities
+* Travel Company need to manage incoming calls so that additional call costs do not impact company budget because the current situation does not have a system which effectively manages incoming calls (without unforeseen impacts to potential end-users)
+* Travel Company managing customer relations needs to improve CMC operation and call flow rate because currently, customers are complaining about wait times
+* Travel Company managing customer relations needs to to profile RMs because RMs are not being matched effectively with customers being served
 
 ### Relationship Managers
-* Relationship Managers need to serve customers that match their skill set and knowledge because in the current situation, some RMs do not have the required knowledge to best server calling customers
-* Relationship Managers need the system to provide guidelines and script for outbound calls to ensure quality best customer service because in the current situation there is not a defined way for how to approach these calls
-* Relationship Managers need to have an established profile (depending on the age, sex, culture, language proficiency, experience and product knowledge) because in the current situation, customers are allocated based on RM’s expertise 
+* Relationship Managers need to serve customers that match their skill set and knowledge because, in the current situation, some RMs do not have the required knowledge to best server calling customers
+* Relationship Managers need the system to provide guidelines/script for outbound calls to ensure high-quality customer service because in the current situation, there is no defined way to approach these calls
+* Relationship Managers need to have an established profile (depending on the age, sex, culture, language proficiency, experience and product knowledge) because in the current situation, customers are allocated based only on RM’s expertise
 
 ## **Empathy Maps**
 ### Empathy Map - Customers
@@ -94,11 +91,11 @@ How might we? (HMW) | How might we statements represent our results of the ideat
 The following features were concluded from the brainstorming session. 
 Feature | Justification
 --- | ---
-Enhance Interactive Voice Response unit | Gain initial understanding of customer needs without the need for an in-person RM answering the call. We concluded that other ideas such as playing ads while customers were on hold were abandoned as they would lead to negative customer experience.
+Enhance Interactive Voice Response unit | Gain initial understanding of customer needs without the need for an in-person RM answering the call. We concluded that other ideas such as playing ads while customers were on hold would be ineffective as it would lead to negative customer experience.
 Improve RM questionnaire  | Allows better initial classification of the RM by providing more parameters for the CMC to score by.
 Added internal wiki of further package information | This was decided to be the best way to have all RMs confident with all packages, so they are more likely to make a sale to customers even if they lack experience with the destination.
 Feedback tool implemented  | Customer feedback tool was added so that the CMC can implement RM scoring in real-time after the call is undertaken.
-Enhanced RM guidelines  | Natural language processing is embedded in the CMC to enhance the autogenerated RM scripts to enhance sale chances. 
+Enhanced RM guidelines  | Natural language processing is embedded in the CMC to enhance the autogenerated RM scripts to increase sale chances. 
 
 The biggest issue we, as a group, faced over the course of our project was our unfamiliarity with GitHub. This took out a portion of each group meeting, as we had to spend time figuring out a correct and consistent workflow. Another issue we found was the lack of face-to-face communication due to COVID-19. This was especially prevalent when filming the video as collating everyone’s individual video and editing became very complicated.
 
@@ -153,7 +150,7 @@ Sprint Burndown Chart | Graphical representation of development progress over ti
 Workproducts and Models
 =======================
 ## **Use Case Diagrams**
-Use case diagrams help to visualise the expected behaviour of the interacts between the users (customers), the system and other actions (namely Relationship Managers) and describes system behaviour but not how it will be done. Thus use case diagrams assists us in designing a system from the end user's perspective. The diagrams below show this in regards to outbound and inbound calls respectively:
+Use case diagrams help to visualise the expected behaviour of the interactions between the users (Customers), the system and other actors (i.e. Relationship Managers) and describes system behaviour but not how it will be done. Thus use case diagrams assists us in designing a system from the end user's perspective. The diagrams below show this in regards to outbound and inbound calls respectively:
 ### Use Case Diagram - Outbound Calls
 ![Image of Use Case Diagram (Outbound Call)](./diagrams/UseCaseDiagram-OutboundCall.png)
 
@@ -161,7 +158,7 @@ Use case diagrams help to visualise the expected behaviour of the interacts betw
 ![Image of Use Case Diagram (Inbound Call)](./diagrams/UseCaseDiagram-InboundCall.png)
 
 ## **Activity Diagrams**
-These diagrams help to visualise the behaviour of the system and actors across multiple use cases, including decisions and the flow of what happens, still not describing the how. The diagrams below show this in regards to outbound and inbound calls respectively:
+These diagrams help to visualise the behaviour of the system and actors across multiple use cases including decisions and the flow of events (still not describing the how). The diagrams below show this in regards to outbound and inbound calls respectively:
 ### Activity Diagram - Outbound Calls
 ![Image of Travel Company Activity Diagram (Outbound Call)](./diagrams/ActivityDiagram-OutboundCall.png)
 
@@ -170,6 +167,7 @@ These diagrams help to visualise the behaviour of the system and actors across m
 
 ## **Class Diagram**
 This diagram represents the structure of the classes involved in the wider system. It displays their attributes and methods as well as the relationships that are between them, such as below:
+
 ![Image of Class Diagram](./diagrams/ClassDiagram.png)
 
 ## **Collaboration Diagrams**
@@ -190,14 +188,13 @@ Lessening the call flow control/routing issues through the development of the ne
 From a more business-centric point of view, the travel company will save costs in handling the increasing customer base. This is due to the information system's ability to reduce per-call handling time, which reduces inbound call costs.
 
 ## **Possible Effects of Project Failure**
-If the information system is ineffective, there are some considerable adverse effects to first take into account. Ranging from the loss of customers to increased operating costs for no benefit, the adverse effects possible should be weighed into consideration alongside the competitive advantages to most accurately see the possible result of the information system.
+If the information system is ineffective, there are some considerable adverse effects to take into account. Ranging from the loss of customers to increased operating costs for no benefit, the adverse effects possible should be weighed into consideration alongside the competitive advantages to most accurately evaluate the possible result of the information system.
 
 By communicating to users that the travel company is implementing a solution to their biggest issues, there is an inherent risk if we fail to deliver. If the solution fails to meet expectation, customers may feel rightly disappointed particularly if these issues have been ongoing. There is a high risk that they may cease interaction with the travel company and move on to a competitor - a huge competitive disadvantage.
 
-Additionally, there is a small risk that the increase in tasks performed by the CMC may decrease its effectiveness. This would provide a run-on effect, whereby the CMC is not only slower but expected to be faster too. This lower efficiency will lead to higher inbound call costs and reduced call flow handling.
+Additionally, there is a small risk that the increase in tasks performed by the CMC may decrease its effectiveness. This would provide a run-on effect, whereby the CMC is not only slower but expected to be faster too. This lower efficiency would lead to higher inbound call costs and reduced call flow handling.
 
-Conclusion *or* Explanation of each iteration intention, rationale, focus?
+Conclusion
 ==========
-8. Document in GitHub all your iteration and models as you progress.
 
-Recording the intention, rationale, and focus of each system’s development iteration using Github’s commit messages, project boards, and issue tracking capabilities
+In conclusion, it is recommended that this major travel company implement the new features designed/described in this report. Appropriate Design Thinking principles and Scrum framework have been applied to effectively analyse the company's current situation and develop both non-technical (Use Case Diagrams, Activity Diagrams) and technical (Class Diagram, Collaboration Diagrams) models for development of the enhanced information system. Upon implementation, the major travel company will likely benefit from increased relationship manager efficiency and customer satisfaction.
