@@ -10,7 +10,7 @@ Problem Definition
 ==================
 Customer experience is heavily impacted because of the call flow rate in the (CMC), as customers are not being assigned to well informed RMs that have the most appropriate knowledge about that particular holiday destination and its traditions i.e. their skillset. This, in turn, is impacting RMs performance in selling packages and serving customers effectively and efficiently.  
 There is also no defined guideline for RMs to approach outbound calls, which affects the service provided to the end customer. High costs associated with inbound calls from customers due to the per-call handling time is also of concern. 
-Furthermore, a key issue faced by customers is waiting times during busy times this can have a negative impact on the major  travel company’s brand and make them potentially loose customers. 
+Furthermore, a key issue faced by customers is waiting times during busy times. This can have a negative impact on the major travel company’s brand and make them potentially lose customers. 
 
 * The current Call Management Centre provides suboptimal:
   * Waiting times
