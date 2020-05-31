@@ -34,7 +34,7 @@ Stakeholders refer to individuals/entities that have an interest in the developm
 
 * **Customers** - explore and purchase holiday packages from the travel company via the CMC
 * **Relationship Managers (RMs)** - perform sales of holiday packages through inbound/outbound customer calls
-* **Major Travel Company (MTC) ** - attempts to make profit utilising the CMC to sell holiday packages, controls key business functions (e.g. operational expenses, human resources)
+* **Major Travel Company (MTC)** - attempts to make profit utilising the CMC to sell holiday packages, controls key business functions (e.g. operational expenses, human resources)
 
 ## **Point of View (POV) Statements**
 ### Customers
