@@ -57,6 +57,7 @@ Stakeholders refer to individuals/entities that have an interest in the developm
 * Relationship Managers need to have an established profile (depending on the age, sex, culture, language proficiency, experience and product knowledge) because in the current situation, customers are allocated based on RM’s expertise 
 
 ## **Empathy Maps**
+Empathy maps help immerse us in our stakeholders' environment in order to better understand them. The empathy map for customers, relationship managers and the major travel company, in order, follow:
 ### Empathy Map - Customers
 ![Image of Customers Empathy Map](./diagrams/EmpathyMap-Customer.png)
 
@@ -153,7 +154,7 @@ Sprint Burndown Chart | Graphical representation of development progress over ti
 Workproducts and Models
 =======================
 ## **Use Case Diagrams**
-Use case diagrams help to visualise the expected behaviour of the interacts between the users (customers), the system and other actions (namely Relationship Managers) and describes system behaviour but not how it will be done. Thus use case diagrams assists us in designing a system from the end user's perspective. The diagrams below show this in regards to outbound and inbound calls respectively:
+Use case diagrams help visualise the expected behaviour of interactions between users, the system and other actors. By describing behaviour, but not inner-workings, it helps design the system from the user's perspective. The diagrams below show this in regards to outbound and inbound calls respectively:
 ### Use Case Diagram - Outbound Calls
 ![Image of Use Case Diagram (Outbound Call)](./diagrams/UseCaseDiagram-OutboundCall.png)
 
@@ -161,7 +162,7 @@ Use case diagrams help to visualise the expected behaviour of the interacts betw
 ![Image of Use Case Diagram (Inbound Call)](./diagrams/UseCaseDiagram-InboundCall.png)
 
 ## **Activity Diagrams**
-These diagrams help to visualise the behaviour of the system and actors across multiple use cases, including decisions and the flow of what happens, still not describing the how. The diagrams below show this in regards to outbound and inbound calls respectively:
+Activity diagrams help to visualise the behaviour of the system and actors across multiple use cases, including decisions and the flow of what happens, without the how. The diagrams below show this in regards to outbound and inbound calls respectively:
 ### Activity Diagram - Outbound Calls
 ![Image of Travel Company Activity Diagram (Outbound Call)](./diagrams/ActivityDiagram-OutboundCall.png)
 
@@ -169,11 +170,11 @@ These diagrams help to visualise the behaviour of the system and actors across m
 ![Image of Travel Company Activity Diagram (Inbound Call)](./diagrams/ActivityDiagram-InboundCall.png)
 
 ## **Class Diagram**
-This diagram represents the structure of the classes involved in the wider system. It displays their attributes and methods as well as the relationships that are between them, such as below:
+Class diagrams represent the structure of the classes involved in the system. It displays their attributes, methods and relationships between classes, such as below:
 ![Image of Class Diagram](./diagrams/ClassDiagram.png)
 
 ## **Collaboration Diagrams**
-These diagrams represents the dynamic behaviour of objects and the structure of the interactions between them. It also displays the sequence of these interactions through numbering; however, focuses more on the messages that flow between each object rather than time-based interactions (seen in sequences diagrams). The diagrams below show this in regards to outbound and inbound calls respectively:
+Collaboration diagrams represent the dynamic behaviour of objects and the structure of the interactions between them. It also displays the sequence of the interactions, focusing more on the messages that flow between objects than time-bised interactions. The collaboration diagrams for outbound and inbound calls, respectively, can be seen below:
 ### Collaboration Diagram - Outbound Calls
 ![Image of Collaboration Diagram (Outbound Call)](./diagrams/CollaborationDiagram-RM.png)
 
@@ -193,7 +194,6 @@ Producing an ineffective information system will lead to considerable adverse ef
 
 Communicating to customers that the travel company is implementing a solution to their issues, and then failing to meet expectations, will cause customers to feel rightly disappointed. Additionally, there is a small risk that the CMC will decrease its effectiveness due to the increase in tasks added by the information system. This lowered efficiency will actually increase inbound call costs and reduce call flow handling.
 Via the many detriments listed above, the failure of this project may cause customers to cease interaction with the travel company and move on to a competitor - a huge competitive disadvantage.
-
 
 Conclusion *or* Explanation of each iteration intention, rationale, focus?
 ==========
