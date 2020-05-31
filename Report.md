@@ -4,6 +4,8 @@ Executive Summary
 =================
 This report presents the definition, analysis, and design of an improved information system solution for the call management centre (CMC) of a major travel company. The Design Thinking principles and agile methodology (Scrum) used are discussed, and iterative progress is documented on GitHub. By first defining the problem the team can acquire great insight into the issue at hand and the objectives and milestones to be achieved. Identifying the key stakeholders will allow the team to understand their target audience and collate opinions, ideas and thoughts to further analyse motives and expectations; the Design Thinking principles will aid in framing the team's approach. Assumptions are then made by the team in order to fill in minor gaps and allow fluidity when conducting iterations. Along with documenting assumptions, overall planning is highly important in any project (especially one of technical nature), which is why there are many models and diagrams before implementation. Finally, recognising the competitive advantages that may be gained in developing the new system, helps stakeholders see the ultimate value and goal of what needs to change and grow within their business and why they are even investing in this project.
 
+Link to Project GitHub repository: [Tutorial10_Group-1](https://github.com/zacaz90/Tutorial10_Group-1)
+
 Problem Definition
 ==================
 * The current Call Management Centre provides suboptimal:
@@ -20,14 +22,15 @@ Problem Definition
 * Match RMs and end-customers according to RMs skills and customer profiles
 
 ## **Assumptions**
-Over the course of system analysis, there were a few assumptions we had to make in order to understand the system as a whole. These assumptions are listed below:
-* The Profiler Tool generates an ordered list of appropriate RMs to direct calls to
-* The RM questionnaire elicits details about the RMs age, sex, culture, language proficiency, experience and product knowledge
-* The CMC has enough processing power to handle complex computations and algorithms
-* Assume a supporting tool to create customer profiles exists, Profiler Tool.
-* Customer database already exists with information such as postcode, surnames
-* Employees have the appropriate product knowledge and understand the operation of the call management centre
-* Guidelines and a script exist for RM with outbound calls to assist them
+In the duration of this project the following assumption's were considered in all system analysis and feature recommendations. 
+
+* The CMC has enough processing power to handle complex computations and algorithms.
+* The CMC is already equipped with all data with information such as a customer database with information such as postcodes and surnames.
+* Employee’s within Major Travel Company have appropriate product knowledge and understanding of the operations within the CMC.
+* The functionality of the inbuilt profiler tool includes customer profile generation and allows the CMC to auto-generate a generic list of customers for specified Relationship Managers (RMs).
+* The details elicited from the RM questionaire includes RM’s age, sex, culture, language proficiency, experience and product knowledge. 
+* The CMC autogenerates generic scripts and guidelines to assist RM sales.
+* The current interactive response unit has limited functionality to ensure customer retention with no hold music or ticketing system during peak traffic. 
 
 ## **List of Stakeholders**
 Stakeholders refer to individuals/entities that have an interest in the development of an information system. The key stakeholders of this project are:
@@ -65,6 +68,28 @@ Stakeholders refer to individuals/entities that have an interest in the developm
 
 Design Thinking Approach
 ========================
+## **Approach - Design Thinking**
+Design thinking is a non-linear, iterative process which seeks the understanding of users to challenge assumptions, redefine problems and create innovative solutions to prototype and test. This customer-centric approach was undertaken to address the improvements requested by the Major Travel Company for their Call Management Centre (CMC). The design thinking approach undertook consists of the execution of five phases, (1) empathize, (2) define, (3) ideate, (4) prototype and (5) test and by addressing these phases we derived customer-centric innovation. 
+
+### Empathise
+Phase one consisted of empathising with stakeholders. This represents anyone who is impacted by the project being developed with a particular focus extended on the end customer. Empathy is a crucial step in achieving a human-centred design process and was utilised to gain insight into users and their needs without introducing any pre imposed bias. When we create solutions, we get better solutions when we think of those who will be affected. To document these perspectives, empathy maps were utilised to collaboratively visualise and share our understanding of stakeholders needs and aid future decision making. This stage allowed us to gain a deeper understanding of the perspective of the users involved and how to shape our solution. 
+
+### Define
+Phase two, define allowed us to synthesise the knowledge obtained in the empathise stage and define the core problems to solve. Here the problem statements were directly derived from creating point of view (POV) statements for all the stakeholders identified. This stage allowed us as a team to consolidate assumptions and agree on features to be developed to solve the problem given. 
+
+### Ideate
+Phase three consisted of utilising the user research conducted to ideate solutions to the problem statements we created in the prior stage. The brainstorming and 'worst possible idea' techniques were utilised to assist within our ideation stage. These techniques were chosen to initiate freeform group discussions and simulated creative solutions in light of the problems identified. These sessions consisted of developing “how might we? (HMW)” statements and deriving features relative to the point of view statements developed in the define stage. The conclusions of the brainstormed features were documented into git via issues. At the conclusion of this stage, the agreed-upon features were converted to issues to be developed for the prototype and testing stage. 
+
+### Prototype/Test
+The prototype and subsequent testing phase is representative of the final stages within the design thinking approach. This consists of producing a small-scaled, mock-up of the product or specific features found within the product so that tangible investigations can occur on the solutions generated in the previous stage. To assist in the prototype stage the team designed artefacts representative of the design of the system. The user flows are demonstrated within the use case diagram, activity diagrams, class diagram and collaborative diagrams provided. Due to the nature of this project, the prototype and respective testing are not within scope. 
+
+### Artefacts
+Artefact | Description
+---|---
+Empathy Maps | Empathy Maps are used to visualise user attitudes and behaviours. This map is split into 6 quadrants (Says, Thinks, Does, Feels, Pains and Gains).
+POV Statements | Point of view statements are statements which focus on the specific user and their needs. These statements represent the team’s results for the define phase.
+How might we? (HMW) | How might we statements represent our results of the ideate phase and are short statements built from point of view statements
+
 ## **Brainstormed Ideas and Reflection**
 The following features were concluded from the brainstorming session. 
 Feature | Justification
@@ -95,37 +120,35 @@ The biggest issue we, as a group, faced over the course of our project was our u
 * HMW manage incoming calls so that they do not add additional costs to the travel company by occupying human resources (Relationship Managers).
 
 ## **Agile Methodology - Scrum**
-Scrum is the most widely used agile methodology for software design and development. The framework assumes that requirements and the development process are constantly and unpredictably changing which is often the case in real-world scenarios. While traditional models/approaches (e.g. Waterfall, Spiral) attempt to define all requirements upfront, requirements in agile/scrum are developed, reviewed, and iteratively updated to allow for greater adaptability to changes in client needs/feedback, technological advancements, and other environmental factors (e.g. global pandemics).
+Scrum is the most widely used agile methodology for software design and development. The framework assumes that requirements and processes constantly/ unpredictably change which is often the case in real-world scenarios. Requirements are developed and reviewed iteratively to allow for greater adaptability to changes in client needs, technological advancements, and other environmental factors (e.g. global pandemics).
 
 ### Roles
-Scrum teams are self-organising and cross-functional meaning they are independent and trusted to be internally directed. Authority is given to the team to complete work in a manner that the team sees best fit. A number of roles exist in most scrum teams. Due to the nature of this project, the product owner and scrum master also act as members of the development team.
+Scrum teams are self-organising and cross-functional meaning they are independent and trusted to complete work as they see fit. The nature of this project required the product owner and scrum master to double as members of the development team.
 
-#### Product Owner – Zac
-The product owner is an individual responsible for establishing and communicating the product vision including defining and prioritising features to be developed. The product owner must make quick and informed decisions while monitoring project progress and release dates.
-#### Scrum Master – Aiswarya
-The scrum master facilitates scrum team events and promotes scrum theory, rules, and practices.
-#### Development Team - Anastasia, Sanya, Sean
-The development team is responsible for building the deliverable increment of a product in each sprint.
+Role | Team Member | Responsibilities
+--- | --- | ---
+Product Owner | Zac | Establishes, communicates, and monitors the progress of the product vision including defining and prioritising features to be developed.
+Scrum Master | Aiswarya | Facilitates scrum team events and promotes scrum theory, rules, and practices.
+Development team | Anastasia, Sanya, Sean | Builds and delivers a working increment of the project in every sprint.
 
 ### Events/Activities
 A sprint is a fixed period of time after which a deliverable iteration of a product must be developed. The following activities were conducted in each of our team's 1-week sprints (Sunday to Friday).
 
-#### Sprint Planning
-Our team conducted sprint planning sessions on the first day of each sprint (Sunday). In these meetings we established the goals for the current sprint, and reviewed the stories/issues in the backlog. The tasks for each sprint were allocated to members of the development team and moved from the “Backlog” column (on project board) to the “Ready for Dev” column.
-#### Sprint Review
-Sprint reviews were held every Friday for members of the development team to explain and deliver their work for the given sprint. The product owner and other team members evaluated what was completed and determined the progress made and tasks left to complete.
-#### Sprint Retrospective
-Our sprint retrospectives were held after each sprint review to re-evaluate our workflow, communication, and any other issues that arose during the sprint.
-#### Daily Scrum
-Due to the clashing schedules of our team members, we decided to communicate/conduct daily scrum meetings over text. Each day, progress updates and issues were discussed and any blockers were collectively reviewed and resolved.
+Event | Description
+--- | ---
+Sprint Planning | Conducted on the first day of each sprint, these meetings established and reviewed backlog tasks/issues/goals for the current sprint. Tasks were assigned to members and moved to “Ready for dev” on the project board.
+Sprint Review | Every Friday, the development team explained and delivered their work for the sprint. This progress was evaluated and tasks left to complete were determined.
+Sprint Retrospective | After each sprint review, we re-evaluated and improved/resolved our workflow, communication, and other issues that arose during the sprint.
+Daily Scrum | Each day, progress updates and issues were discussed and resolved. Due to our team’s clashing schedules, most daily scrum meetings were agreed to be communicated over text.
+
 
 ### Artefacts
 Artefact | Description
 ---|---
-Product Backlog | An ordered list of all tasks/features/stories/requirements for a product (managed by product owner)
-Sprint Backlog | A subset of the Product Backlog for development in a sprint (managed by development team)
-Product Increment | A potentially shippable version of the product that builds on the previous increment/version
-Sprint Burndown Chart | A graphical representation of the development team's progress over time (backlog items completed)
+Product Backlog | Prioritised list of all tasks/requirements for a product.
+Sprint Backlog | Subset of the Product Backlog for development during a sprint.
+Product Increment | Potentially shippable version of the product built each sprint.
+Sprint Burndown Chart | Graphical representation of development progress over time (backlog items completed).
 
 Workproducts and Models
 =======================
