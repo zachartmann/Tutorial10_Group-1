@@ -66,7 +66,7 @@ Stakeholders refer to individuals/entities that have an interest in the developm
 Design Thinking Approach
 ========================
 ## **Approach - Design Thinking**
-Design thinking is a non-linear, iterative process which seeks the understanding of users to redefine problems and create innovative solutions to prototype and test. This customer-centric approach was undertaken to address the improvements requested by the Major Travel Company for their Call Management Centre (CMC). The design thinking approach consists of five phases, (1) empathize, (2) define, (3) ideate, (4) prototype and (5) test. 
+Design thinking is a non-linear, iterative process which seeks the understanding of users to redefine problems and create innovative solutions to prototype and test. This customer-centric approach was undertaken to address the improvements requested by the Major Travel Company for their Call Management Centre (CMC). The design thinking approach consists of the following five phases:
 
 ### Empathise
 Phase one consisted of empathising with stakeholders. Empathy is a crucial step in achieving a human-centred design process and was utilised to gain insight into users and their needs without imposing bias. When we create solutions, we get better solutions when we think of those who will be affected. To document these perspectives, empathy maps were utilised to visualise and share our understanding of stakeholders needs and aid future decision making. Phase one allowed us to gain a deeper understanding of the perspective of the users involved and how to shape our solution.
