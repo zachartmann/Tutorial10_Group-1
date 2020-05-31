@@ -10,16 +10,16 @@ Problem Definition
 ==================
 * The current Call Management Centre provides suboptimal:
   * Waiting times
-  * RM to customer matching (mismatch)
+  * RM-to-customer matching (mismatch)
   * Prioritisation of customers
   * Inbound call costs
 * The Call Management Centre currently provides a suboptimal user experience, due to wait times and poor customer-RM matching, leading to user disatisfaction
 
 ## **Objectives**
-* Develop an information to improve operation of the Call Management Centre
+* Develop an information system to improve operation of the Call Management Centre
+* Match RMs and end-customers according to RMs skills and customer profiles
 * Adjust call flow-rate to Relationship Managers
 * Improving profitability and customer satisfaction
-* Match RMs and end-customers according to RMs skills and customer profiles
 
 ## **Assumptions**
 In the duration of this project the following assumption's were considered in all system analysis and feature recommendations. 
@@ -35,26 +35,26 @@ In the duration of this project the following assumption's were considered in al
 ## **List of Stakeholders**
 Stakeholders refer to individuals/entities that have an interest in the development of an information system. The key stakeholders of this project are:
 
-* Customers
-* Relationship Managers (RMs)
-* Travel Company
+* **Customers** - explore and purchase holiday packages from the travel company via the CMC
+* **Relationship Managers (RMs)** - perform sales of holiday packages through inbound/outbound customer calls
+* **Travel Company** - attempts to make profit utilising the CMC to sell holiday packages, controls key business functions (e.g. operational expenses, human resources)
 
 ## **Point of View (POV) Statements**
 ### Customers
-* Customers calling the travel company need to  have their call answered in a timely manner because current situation has customers waiting on the phone with no RM callback
-* Customers speaking to a Relationship Manager need to be  matched with an RM who has the required language proficiency because current situation has customers being inadequately paired with RMs who don’t meet skill/language requirements.
+* Customers calling the travel company need to  have their call answered in a timely manner because the current situation has customers waiting on the phone with no RM callback
+* Customers speaking to a Relationship Manager need to be  matched with an RM who has the required language proficiency because the current situation has customers being inadequately paired with RMs who don’t meet skill/language requirements
 * Customers with little travelling experience need to  call an RM capable of assisting them in finding a package to suit their needs because in the current situation, some customers are finding imperfect packages due to inadequate RM matching
 
 ### Travel Company
-* Travel Company managing RM staff need to determine which staff members are underperforming in  regards to reaching their KPIs because current situation doesn’t have a system with the capabilities of KPI tracking
-* Travel Company managing incoming calls need to manage incoming calls so that no additional call costs impact company budget because the current situation doesn’t have a system which effectively manages incoming calls without causing unforeseen impacts to potential end-users 
-* Travel Company managing customer relations need to improve CMC operation and call flow rate because currently, customers are complaining about wait times
-* Travel Company managing customer relations need to To profile RMs because RMs are not being matched effectively with customers being served
+* Travel Company managing RM staff needs to determine which staff members are underperforming (reaching KPIs) because the current situation does not have a system with KPI tracking capabilities
+* Travel Company need to manage incoming calls so that additional call costs do not impact company budget because the current situation does not have a system which effectively manages incoming calls (without unforeseen impacts to potential end-users)
+* Travel Company managing customer relations needs to improve CMC operation and call flow rate because currently, customers are complaining about wait times
+* Travel Company managing customer relations needs to to profile RMs because RMs are not being matched effectively with customers being served
 
 ### Relationship Managers
-* Relationship Managers need to serve customers that match their skill set and knowledge because in the current situation, some RMs do not have the required knowledge to best server calling customers
-* Relationship Managers need the system to provide guidelines and script for outbound calls to ensure quality best customer service because in the current situation there is not a defined way for how to approach these calls
-* Relationship Managers need to have an established profile (depending on the age, sex, culture, language proficiency, experience and product knowledge) because in the current situation, customers are allocated based on RM’s expertise 
+* Relationship Managers need to serve customers that match their skill set and knowledge because, in the current situation, some RMs do not have the required knowledge to best server calling customers
+* Relationship Managers need the system to provide guidelines/script for outbound calls to ensure high-quality customer service because in the current situation, there is no defined way to approach these calls
+* Relationship Managers need to have an established profile (depending on the age, sex, culture, language proficiency, experience and product knowledge) because in the current situation, customers are allocated based only on RM’s expertise
 
 ## **Empathy Maps**
 Empathy maps help immerse us in our stakeholders' environment in order to better understand them. The empathy map for customers, relationship managers and the major travel company, in order, follow:
@@ -195,8 +195,6 @@ Producing an ineffective information system will lead to considerable adverse ef
 Communicating to customers that the travel company is implementing a solution to their issues, and then failing to meet expectations, will cause customers to feel rightly disappointed. Additionally, there is a small risk that the CMC will decrease its effectiveness due to the increase in tasks added by the information system. This lowered efficiency will actually increase inbound call costs and reduce call flow handling.
 Via the many detriments listed above, the failure of this project may cause customers to cease interaction with the travel company and move on to a competitor - a huge competitive disadvantage.
 
-Conclusion *or* Explanation of each iteration intention, rationale, focus?
+Conclusion
 ==========
-8. Document in GitHub all your iteration and models as you progress.
-
-Recording the intention, rationale, and focus of each system’s development iteration using Github’s commit messages, project boards, and issue tracking capabilities
+In conclusion, it is recommended that this major travel company implement the new features designed/described in this report. Appropriate Design Thinking principles and Scrum framework have been applied to effectively analyse the company's current situation and develop both non-technical (Use Case Diagrams, Activity Diagrams) and technical (Class Diagram, Collaboration Diagrams) models for development of the enhanced information system. Upon implementation, the major travel company will likely benefit from increased relationship manager efficiency and customer satisfaction.
