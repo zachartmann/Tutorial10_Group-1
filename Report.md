@@ -117,32 +117,32 @@ The biggest issue we, as a group, faced over the course of our project was our u
 * HMW manage incoming calls so that they do not add additional costs to the travel company by occupying human resources (Relationship Managers).
 
 ## **Agile Methodology - Scrum**
-Scrum is the most widely used agile methodology for software design and development. The framework assumes that requirements and processes constantly/ unpredictably change which is often the case in real-world scenarios. Requirements are developed and reviewed iteratively to allow for greater adaptability to changes in client needs, technological advancements, and other environmental factors (e.g. global pandemics).
+The Scrum framework encourages iterative development/review of requirements allowing for greater adaptability to changes in client needs, technological advancements, and other environmental factors (e.g. global pandemics).
 
 ### Roles
-Scrum teams are self-organising and cross-functional meaning they are independent and trusted to complete work as they see fit. The nature of this project required the product owner and scrum master to double as members of the development team.
+This project required the product owner and scrum master to double as development team members.
 
 Role | Team Member | Responsibilities
 --- | --- | ---
-Product Owner | Zac | Establishes, communicates, and monitors the progress of the product vision including defining and prioritising features to be developed.
-Scrum Master | Aiswarya | Facilitates scrum team events and promotes scrum theory, rules, and practices.
-Development team | Anastasia, Sanya, Sean | Builds and delivers a working increment of the project in every sprint.
+Product Owner | Zac | Defines, prioritises, communicates, and monitors the product vision.
+Scrum Master | Aiswarya | Facilitates scrum team events and promotes scrum principles.
+Development team | Anastasia, Sanya, Sean | Builds/delivers working increment of the product every sprint.
 
 ### Events/Activities
-A sprint is a fixed period of time after which a deliverable iteration of a product must be developed. The following activities were conducted in each of our team's 1-week sprints (Sunday to Friday).
+A sprint is a fixed period of time after which a deliverable iteration of a product must be developed. The following activities were conducted in each sprint (Sunday to Friday).
 
 Event | Description
 --- | ---
-Sprint Planning | Conducted on the first day of each sprint, these meetings established and reviewed backlog tasks/issues/goals for the current sprint. Tasks were assigned to members and moved to “Ready for dev” on the project board.
-Sprint Review | Every Friday, the development team explained and delivered their work for the sprint. This progress was evaluated and tasks left to complete were determined.
-Sprint Retrospective | After each sprint review, we re-evaluated and improved/resolved our workflow, communication, and other issues that arose during the sprint.
-Daily Scrum | Each day, progress updates and issues were discussed and resolved. Due to our team’s clashing schedules, most daily scrum meetings were agreed to be communicated over text.
+Sprint Planning | On the first day of each sprint, backlog tasks/goals for the current sprint were established, reviewed, and assigned. Relevant tasks were moved to “Ready for dev” on the project board.
+Sprint Review | Every Friday, the development team delivered their work for the sprint. Progress and tasks left to complete were evaluated.
+Sprint Retrospective | After sprint reviews, we re-evaluated and improved our workflow, communication, and other issues from the sprint.
+Daily Scrum | Each day, progress updates/issues were discussed and resolved. This was agreed to be communicated over text due to clashing schedules.
 
 
 ### Artefacts
 Artefact | Description
 ---|---
-Product Backlog | Prioritised list of all tasks/requirements for a product.
+Product Backlog | Prioritised list of all requirements for a product.
 Sprint Backlog | Subset of the Product Backlog for development during a sprint.
 Product Increment | Potentially shippable version of the product built each sprint.
 Sprint Burndown Chart | Graphical representation of development progress over time (backlog items completed).
