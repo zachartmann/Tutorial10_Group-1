@@ -6,6 +6,8 @@ This report presents the definition, analysis, and design of an improved informa
 
 Link to GitHub repository: [Tutorial10_Group-1](https://github.com/zacaz90/Tutorial10_Group-1)
 
+Link to Presentation: [Group 1 ISDM Presentation](https://youtu.be/D0_IJqS_XU8)
+
 Problem Definition
 ==================
 Customer experience is heavily impacted because of the call flow rate in the (CMC), as customers are not being assigned to well informed RMs that have the most appropriate knowledge about that particular holiday destination and its traditions i.e. their skillset. This, in turn, is impacting RMs performance in selling packages and serving customers effectively and efficiently.  
