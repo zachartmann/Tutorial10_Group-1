@@ -183,18 +183,17 @@ These diagrams represents the dynamic behaviour of objects and the structure of 
 Potential Advantages and Disadvantages
 ======================================
 ## **Competitive Advantage**
-Developing this new information system, if successful, will lead to a plethora of competitive advantages against other major travel companies looking to increase their customer loyalty or retention. Currently, the CMC (Call Management Centre) has reduced operating efficiency due to call flow control and call routing issues. This leads to some customers having long wait times and drives up the inbound call cost of the CMC. Through the information system's implementation, these areas could be improved and provide many advantages.
+Developing this information system will lead to many competitive advantages; if successful. Currently, the Call Management Center (CMC) has issues in its call flow control and call routing. These issues lead to customers having long wait times, which in turn drives up inbound call costs for the CMC.
 
-Lessening the call flow control/routing issues through the development of the new information system will reduce wait times for customers and provide more effective matches with RMs (Relationship Managers). This enhancement in user experience will improve customer retention, as they see changes being made in the system for their benefit. In addition, implementing an easier method of feedback elicitation could lead to a large uptake in customer loyalty due to their opinions being taken into consideration. The above points will inadvertently put greater pressure on competitors to keep up, providing an extraordinary competitive advantage.
-
-From a more business-centric point of view, the travel company will save costs in handling the increasing customer base. This is due to the information system's ability to reduce per-call handling time, which reduces inbound call costs.
+Lessening the call flow control/routing issues will directly reduce wait times and provide more effective matches with RMs. Consequently, the travel company will save costs in handling customers due to reduced per-call handling time. As the new information system is making changes for the customer's benefit, it will result in improved customer retention. Additionally, implementing an easier method of feedback elicitation could lead to greater customer loyalty, as they can effortlessly raise concerns. Furthermore, the travel company will save costs in handling customers due to the information system's ability to reduce per-call handling time.
+These benefits will put greater pressure on competitors to keep up, providing an extraordinary advantage.
 
 ## **Possible Effects of Project Failure**
-If the information system is ineffective, there are some considerable adverse effects to first take into account. Ranging from the loss of customers to increased operating costs for no benefit, the adverse effects possible should be weighed into consideration alongside the competitive advantages to most accurately see the possible result of the information system.
+Producing an ineffective information system will lead to considerable adverse effects. From the loss of customers to increased operating costs, the adverse effects should be weighed into consideration alongside the advantages to must accurately evaluate the possible result of the information system.
 
-By communicating to users that the travel company is implementing a solution to their biggest issues, there is an inherent risk if we fail to deliver. If the solution fails to meet expectation, customers may feel rightly disappointed particularly if these issues have been ongoing. There is a high risk that they may cease interaction with the travel company and move on to a competitor - a huge competitive disadvantage.
+Communicating to customers that the travel company is implementing a solution to their issues, and then failing to meet expectations, will cause customers to feel rightly disappointed. Additionally, there is a small risk that the CMC will decrease its effectiveness due to the increase in tasks added by the information system. This lowered efficiency will actually increase inbound call costs and reduce call flow handling.
+Via the many detriments listed above, the failure of this project may cause customers to cease interaction with the travel company and move on to a competitor - a huge competitive disadvantage.
 
-Additionally, there is a small risk that the increase in tasks performed by the CMC may decrease its effectiveness. This would provide a run-on effect, whereby the CMC is not only slower but expected to be faster too. This lower efficiency will lead to higher inbound call costs and reduced call flow handling.
 
 Conclusion *or* Explanation of each iteration intention, rationale, focus?
 ==========
