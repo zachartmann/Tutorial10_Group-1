@@ -171,7 +171,7 @@ Class diagrams represent the structure of the classes involved in the system. It
 ![Image of Class Diagram](./diagrams/ClassDiagram.png)
 
 ## **Collaboration Diagrams**
-Collaboration diagrams represent the dynamic behaviour of objects and the structure of the interactions between them. It also displays the sequence of the interactions, focusing more on the messages that flow between objects than time-bised interactions. The collaboration diagrams for outbound and inbound calls, respectively, can be seen below:
+Collaboration diagrams represent the dynamic behaviour of objects and the structure of the interactions between them. It also displays the sequence of the interactions, focusing more on the messages that flow between objects than time-based interactions. The collaboration diagrams for outbound and inbound calls, respectively, can be seen below:
 ### Collaboration Diagram - Outbound Calls
 ![Image of Collaboration Diagram (Outbound Call)](./diagrams/CollaborationDiagram-RM.png)
 
