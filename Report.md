@@ -21,13 +21,13 @@ Furthermore, a key issue faced by customers is waiting times during busy times. 
 This project is designed to help the major travel company develop an information system to improve the functionality of their in-house Call Management Centre. This is done by adjusting the call flow rate to match customers to a suitable relationship manager, based on their skillset, product knowledge and profile. The aim is to improve the customer experience and satisfaction. Ultimately the objective is to increase the sales of holiday packages adding to the profitability and provide better assistance to relationship managers performing sales.
 
 ## **Assumptions**
-In the duration of this project the following assumption's were considered in all system analysis and feature recommendations. 
+In the duration of this project the following assumptions were considered in all system analysis and feature recommendations. 
 
 * The CMC has enough processing power to handle complex computations and algorithms.
 * The CMC is already equipped with all data with information such as a customer database with information such as postcodes and surnames.
 * Employee’s within Major Travel Company have appropriate product knowledge and understanding of the operations within the CMC.
 * The functionality of the inbuilt profiler tool includes customer profile generation and allows the CMC to auto-generate a generic list of customers for specified Relationship Managers (RMs).
-* The details elicited from the RM questionaire includes RM’s age, sex, culture, language proficiency, experience and product knowledge. 
+* The details elicited from the RM questionnaire includes RM’s age, sex, culture, language proficiency, experience and product knowledge. 
 * The CMC autogenerates generic scripts and guidelines to assist RM sales.
 * The current interactive response unit has limited functionality to ensure customer retention with no hold music or ticketing system during peak traffic. 
 
@@ -40,20 +40,20 @@ Stakeholders refer to individuals/entities that have an interest in the developm
 
 ## **Point of View (POV) Statements**
 ### Customers
-* Customers calling the travel company need to  have their call answered in a timely manner because the current situation has customers waiting on the phone with no RM callback
-* Customers speaking to a Relationship Manager need to be  matched with an RM who has the required language proficiency because the current situation has customers being inadequately paired with RMs who don’t meet skill/language requirements
-* Customers with little travelling experience need to  call an RM capable of assisting them in finding a package to suit their needs because in the current situation, some customers are finding imperfect packages due to inadequate RM matching
+* Customers calling the travel company need to  have their call answered in a timely manner because currently, customers must wait on the phone with no RM callback
+* Customers speaking to a Relationship Manager need to be matched with an RM who has the required language proficiency because currently, customers are being inadequately paired with RMs who do not meet skill/language requirements
+* Customers with little travelling experience need to call capable/experienced RMs because currently, some customers are finding imperfect packages due to inadequate RM matching
 
 ### Travel Company
-* Travel Company managing RM staff needs to determine which staff members are underperforming (reaching KPIs) because the current situation does not have a system with KPI tracking capabilities
-* Travel Company need to manage incoming calls so that additional call costs do not impact company budget because the current situation does not have a system which effectively manages incoming calls (without unforeseen impacts to potential end-users)
+* Travel Company managing RM staff needs to determine which staff members are underperforming (reaching KPIs) because currently, there is no system with KPI tracking capabilities
+* Travel Company need to manage incoming calls so that additional call costs do not impact company budget because the current system does not effectively manage incoming calls (without unforeseen impacts to potential end-users)
 * Travel Company managing customer relations needs to improve CMC operation and call flow rate because currently, customers are complaining about wait times
-* Travel Company managing customer relations needs to to profile RMs because RMs are not being matched effectively with customers being served
+* Travel Company managing customer relations needs to profile RMs because RMs are not matched effectively with customers being served
 
 ### Relationship Managers
-* Relationship Managers need to serve customers that match their skill set and knowledge because, in the current situation, some RMs do not have the required knowledge to best server calling customers
-* Relationship Managers need the system to provide guidelines/script for outbound calls to ensure high-quality customer service because in the current situation, there is no defined way to approach these calls
-* Relationship Managers need to have an established profile (depending on the age, sex, culture, language proficiency, experience and product knowledge) because in the current situation, customers are allocated based only on RM’s expertise
+* Relationship Managers need to serve customers that match their skill set and knowledge because currently, some RMs do not have the required knowledge to best serve calling customers
+* Relationship Managers need the system to provide guidelines/script for outbound calls to ensure high-quality customer service because currently, there is no defined way to approach these calls
+* Relationship Managers need to have an established profile (depending on the age, sex, culture, language proficiency, experience and product knowledge) because currently, customers are allocated based only on RM’s expertise
 
 ## **Empathy Maps**
 Empathy maps help immerse us in our stakeholders' environment in order to better understand them. The empathy map for customers, relationship managers and the major travel company, in order, follow:
@@ -81,7 +81,7 @@ Phase two consisted of synthesising the knowledge obtained in the empathise stag
 Phase three consisted of utilising user research obtained to ideate solutions to the problem statements created in the prior stage. Brainstorming and 'worst possible idea' techniques were utilised. These techniques helped initiate free-form group discussions and stimulate creative solutions. Ideate sessions consisted of developing “how might we?" (HMW) statements and deriving features relative to the point of view statements developed. At the conclusion of this stage, the agreed-upon features were documented and converted to issues in GitHub to be developed for the prototype and testing stage.
 
 ### Prototype/Test
-The prototype and testing phase is representative of the final stages within the design thinking approach. This consists of producing mock-ups of the product or specific features so that tangible investigations can occur on the solutions generated in the previous stage. Due to the nature of this project, the prototype and respective testing are not within scope. However to assist in the prototype stage the team designed artefacts representative of the design of the system such as use case, activity, class and collaboration diagrams. 
+The prototype and testing phases represent the final stages within the design thinking approach. This consists of producing mock-ups of the product or specific features so that tangible investigations can occur on the solutions generated in the previous stage. Due to the nature of this project, the prototype and respective testing are not within scope. However, to assist in the prototype stage the team designed artefacts representative of the design of the system such as use case, activity, class and collaboration diagrams. 
 
 ### Artefacts
 Artefact | Description
@@ -183,9 +183,10 @@ Collaboration diagrams represent the dynamic behaviour of objects and the struct
 Potential Advantages and Disadvantages
 ======================================
 ## **Competitive Advantage**
-Developing this information system will lead to many competitive advantages; if successful. Currently, the Call Management Center (CMC) has issues in its call flow control and call routing. These issues lead to customers having long wait times, which in turn drives up inbound call costs for the CMC.
+Developing this information system will lead to many competitive advantages; if successful. Currently, the Call Management Centre (CMC) has issues in its call flow control and call routing. These issues lead to customers having long wait times, which in turn drives up inbound call costs for the CMC.
 
 Lessening the call flow control/routing issues will directly reduce wait times and provide more effective matches with RMs. Consequently, the travel company will save costs in handling customers due to reduced per-call handling time. As the new information system is making changes for the customer's benefit, it will result in improved customer retention. Additionally, implementing an easier method of feedback elicitation could lead to greater customer loyalty, as they can effortlessly raise concerns. Furthermore, the travel company will save costs in handling customers due to the information system's ability to reduce per-call handling time.
+
 These benefits will put greater pressure on competitors to keep up, providing an extraordinary advantage.
 
 ## **Possible Effects of Project Failure**
