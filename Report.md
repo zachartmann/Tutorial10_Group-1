@@ -6,6 +6,8 @@ This report presents the definition, analysis, and design of an improved informa
 
 Link to GitHub repository: [Tutorial10_Group-1](https://github.com/zacaz90/Tutorial10_Group-1)
 
+Link to Presentation: [Group 1 ISDM Presentation](https://youtu.be/HOksut2P2MQ)
+
 Problem Definition
 ==================
 Customer experience is heavily impacted because of the call flow rate in the (CMC), as customers are not being assigned to well informed RMs that have the most appropriate knowledge about that particular holiday destination and its traditions i.e. their skillset. This, in turn, is impacting RMs performance in selling packages and serving customers effectively and efficiently.  
@@ -34,7 +36,7 @@ Stakeholders refer to individuals/entities that have an interest in the developm
 
 * **Customers** - explore and purchase holiday packages from the travel company via the CMC
 * **Relationship Managers (RMs)** - perform sales of holiday packages through inbound/outbound customer calls
-* **Travel Company** - attempts to make profit utilising the CMC to sell holiday packages, controls key business functions (e.g. operational expenses, human resources)
+* **Major Travel Company (MTC)** - attempts to make profit utilising the CMC to sell holiday packages, controls key business functions (e.g. operational expenses, human resources)
 
 ## **Point of View (POV) Statements**
 ### Customers
@@ -67,26 +69,26 @@ Empathy maps help immerse us in our stakeholders' environment in order to better
 Design Thinking Approach
 ========================
 ## **Approach - Design Thinking**
-Design thinking is a non-linear, iterative process which seeks the understanding of users to challenge assumptions, redefine problems and create innovative solutions to prototype and test. This customer-centric approach was undertaken to address the improvements requested by the Major Travel Company for their Call Management Centre (CMC). The design thinking approach undertook consists of the execution of five phases, (1) empathize, (2) define, (3) ideate, (4) prototype and (5) test and by addressing these phases we derived customer-centric innovation. 
+Design thinking is a non-linear, iterative process which seeks the understanding of users to redefine problems and create innovative solutions to prototype and test. This customer-centric approach was undertaken to address the improvements requested by the Major Travel Company for their Call Management Centre (CMC). The design thinking approach consists of the following five phases:
 
 ### Empathise
-Phase one consisted of empathising with stakeholders. This represents anyone who is impacted by the project being developed with a particular focus extended on the end customer. Empathy is a crucial step in achieving a human-centred design process and was utilised to gain insight into users and their needs without introducing any pre imposed bias. When we create solutions, we get better solutions when we think of those who will be affected. To document these perspectives, empathy maps were utilised to collaboratively visualise and share our understanding of stakeholders needs and aid future decision making. This stage allowed us to gain a deeper understanding of the perspective of the users involved and how to shape our solution. 
+Phase one consisted of empathising with stakeholders. Empathy is a crucial step in achieving a human-centred design process and was utilised to gain insight into users and their needs without imposing bias. When we create solutions, we get better solutions when we think of those who will be affected. To document these perspectives, empathy maps were utilised to visualise and share our understanding of stakeholders needs and aid future decision making. Phase one allowed us to gain a deeper understanding of the perspective of the users involved and how to shape our solution.
 
 ### Define
-Phase two, define allowed us to synthesise the knowledge obtained in the empathise stage and define the core problems to solve. Here the problem statements were directly derived from creating point of view (POV) statements for all the stakeholders identified. This stage allowed us as a team to consolidate assumptions and agree on features to be developed to solve the problem given. 
+Phase two consisted of synthesising the knowledge obtained in the empathise stage and defining core problems to solve. Here the problem statements were directly derived from creating point of view (POV) statements for all the stakeholders identified. This stage allowed us as a team to consolidate assumptions and agree on features to be developed to solve the problem given.
 
 ### Ideate
-Phase three consisted of utilising the user research conducted to ideate solutions to the problem statements we created in the prior stage. The brainstorming and 'worst possible idea' techniques were utilised to assist within our ideation stage. These techniques were chosen to initiate freeform group discussions and simulated creative solutions in light of the problems identified. These sessions consisted of developing “how might we? (HMW)” statements and deriving features relative to the point of view statements developed in the define stage. The conclusions of the brainstormed features were documented into git via issues. At the conclusion of this stage, the agreed-upon features were converted to issues to be developed for the prototype and testing stage. 
+Phase three consisted of utilising user research obtained to ideate solutions to the problem statements created in the prior stage. Brainstorming and 'worst possible idea' techniques were utilised. These techniques helped initiate free-form group discussions and stimulate creative solutions. Ideate sessions consisted of developing “how might we?" (HMW) statements and deriving features relative to the point of view statements developed. At the conclusion of this stage, the agreed-upon features were documented and converted to issues in GitHub to be developed for the prototype and testing stage.
 
 ### Prototype/Test
-The prototype and subsequent testing phase is representative of the final stages within the design thinking approach. This consists of producing a small-scaled, mock-up of the product or specific features found within the product so that tangible investigations can occur on the solutions generated in the previous stage. To assist in the prototype stage the team designed artefacts representative of the design of the system. The user flows are demonstrated within the use case diagram, activity diagrams, class diagram and collaborative diagrams provided. Due to the nature of this project, the prototype and respective testing are not within scope. 
+The prototype and testing phase is representative of the final stages within the design thinking approach. This consists of producing mock-ups of the product or specific features so that tangible investigations can occur on the solutions generated in the previous stage. Due to the nature of this project, the prototype and respective testing are not within scope. However to assist in the prototype stage the team designed artefacts representative of the design of the system such as use case, activity, class and collaboration diagrams. 
 
 ### Artefacts
 Artefact | Description
 ---|---
 Empathy Maps | Empathy Maps are used to visualise user attitudes and behaviours. This map is split into 6 quadrants (Says, Thinks, Does, Feels, Pains and Gains).
-POV Statements | Point of view statements are statements which focus on the specific user and their needs. These statements represent the team’s results for the define phase.
-How might we? (HMW) | How might we statements represent our results of the ideate phase and are short statements built from point of view statements
+Point of view statements (POV) | POV statements focuses on the specific user and their needs. These statements represent the team’s results for the define phase.
+How might we? (HMW) | HMW statements represent the results of the ideate phase and are short statements built from point of view statements
 
 ## **Brainstormed Ideas and Reflection**
 The following features were concluded from the brainstorming session. 
@@ -118,32 +120,32 @@ The biggest issue we, as a group, faced over the course of our project was our u
 * HMW manage incoming calls so that they do not add additional costs to the travel company by occupying human resources (Relationship Managers).
 
 ## **Agile Methodology - Scrum**
-Scrum is the most widely used agile methodology for software design and development. The framework assumes that requirements and processes constantly/ unpredictably change which is often the case in real-world scenarios. Requirements are developed and reviewed iteratively to allow for greater adaptability to changes in client needs, technological advancements, and other environmental factors (e.g. global pandemics).
+The Scrum framework encourages iterative development/review of requirements allowing for greater adaptability to changes in client needs, technological advancements, and other environmental factors (e.g. global pandemics).
 
 ### Roles
-Scrum teams are self-organising and cross-functional meaning they are independent and trusted to complete work as they see fit. The nature of this project required the product owner and scrum master to double as members of the development team.
+This project required the product owner and scrum master to double as development team members.
 
 Role | Team Member | Responsibilities
 --- | --- | ---
-Product Owner | Zac | Establishes, communicates, and monitors the progress of the product vision including defining and prioritising features to be developed.
-Scrum Master | Aiswarya | Facilitates scrum team events and promotes scrum theory, rules, and practices.
-Development team | Anastasia, Sanya, Sean | Builds and delivers a working increment of the project in every sprint.
+Product Owner | Zac | Defines, prioritises, communicates, and monitors the product vision.
+Scrum Master | Aiswarya | Facilitates scrum team events and promotes scrum principles.
+Development team | Anastasia, Sanya, Sean | Builds/delivers working increment of the product every sprint.
 
 ### Events/Activities
-A sprint is a fixed period of time after which a deliverable iteration of a product must be developed. The following activities were conducted in each of our team's 1-week sprints (Sunday to Friday).
+A sprint is a fixed period of time after which a deliverable iteration of a product must be developed. The following activities were conducted in each sprint (Sunday to Friday).
 
 Event | Description
 --- | ---
-Sprint Planning | Conducted on the first day of each sprint, these meetings established and reviewed backlog tasks/issues/goals for the current sprint. Tasks were assigned to members and moved to “Ready for dev” on the project board.
-Sprint Review | Every Friday, the development team explained and delivered their work for the sprint. This progress was evaluated and tasks left to complete were determined.
-Sprint Retrospective | After each sprint review, we re-evaluated and improved/resolved our workflow, communication, and other issues that arose during the sprint.
-Daily Scrum | Each day, progress updates and issues were discussed and resolved. Due to our team’s clashing schedules, most daily scrum meetings were agreed to be communicated over text.
+Sprint Planning | On the first day of each sprint, backlog tasks/goals for the current sprint were established, reviewed, and assigned. Relevant tasks were moved to “Ready for dev” on the project board.
+Sprint Review | Every Friday, the development team delivered their work for the sprint. Progress and tasks left to complete were evaluated.
+Sprint Retrospective | After sprint reviews, we re-evaluated and improved our workflow, communication, and other issues from the sprint.
+Daily Scrum | Each day, progress updates/issues were discussed and resolved. This was agreed to be communicated over text due to clashing schedules.
 
 
 ### Artefacts
 Artefact | Description
 ---|---
-Product Backlog | Prioritised list of all tasks/requirements for a product.
+Product Backlog | Prioritised list of all requirements for a product.
 Sprint Backlog | Subset of the Product Backlog for development during a sprint.
 Product Increment | Potentially shippable version of the product built each sprint.
 Sprint Burndown Chart | Graphical representation of development progress over time (backlog items completed).
